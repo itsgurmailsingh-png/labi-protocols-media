@@ -1,0 +1,173 @@
+#################################################################################
+# CountingDuplicates v0.3 (2017)
+#
+# A script to count duplicates across database for the PRISMA table
+# of Meta-Analysis
+#
+# Author: Hyunsuk Frank Roh (Frank@nGene.org)
+# Hanyang University, School of Medicine
+# Software Architect of www.nGene.org
+#################################################################################
+
+
+from difflib import SequenceMatcher
+import re
+import codecs
+
+data_pubmed = []
+data_EMBASS = []
+
+
+def similar(a, b):
+    a = a.lower()
+    b = b.lower()
+    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
+
+
+def iterating_list(data, verbose=False):
+    num_counter = 1
+    for tmp in data:
+        first_author    = tmp[0]
+        title           = tmp[1]
+        if verbose:
+            print("%3s %10s   %s" %(num_counter, first_author, title))
+        num_counter = num_counter + 1
+
+
+def read_EMBASS(file, data):
+    f = codecs.open(file, "r",  encoding='utf-8')
+    lines = f.readlines()
+    i = 0
+     
+    while(i < len(lines)):
+        tmps = lines[i].split(' ')
+        title = ''
+        no_title = False
+        no_author = False
+
+        if tmps[0] == 'RECORD':
+            num_counter = int(tmps[1])
+
+            i = i + 1
+            if lines[i].split(' ')[0] == 'AUTHOR':
+                no_title = True
+                i = i + 1
+            else:
+                i = i + 1
+                while True:
+                    title = title + lines[i][:-1]
+                    i = i + 1
+
+                    if lines[i].split(' ')[0] == 'RECORD':
+                        no_author = True
+                        i = i - 1
+                        break
+                    
+                    if lines[i][:5] == 'AUTHOR'[:5] :
+                        i = i + 1
+                        break
+
+            if no_author:
+                first_author = ''
+            else:
+                first_author = lines[i].split(' ')[2]
+                first_author = first_author
+            title = title[2:]
+            data.append((first_author, title))
+##            print("%s %s %s" %(num_counter, first_author, title))
+
+        i = i + 1
+
+    f.close()
+    return data
+
+
+def read_pubmed(file, data, starting_index):
+    f = codecs.open(file, "r",  encoding='utf-8')
+    lines = f.readlines()
+    
+    i = 0
+    num_counter = starting_index
+
+    while( i < len(lines) ):
+
+        tmps = lines[i].split(':')
+        title = ''
+
+        if tmps[0] == '%s' %(num_counter):
+            first_author = tmps[1].split(' ')[1]
+
+            found_period = False
+            while (found_period == False) :
+                if(lines[i].find('.')<0):
+                    i = i + 1
+                else:
+                    title = title + ' ' + lines[i][lines[i].find('.')+1:-2]
+                    found_period = True
+                    i = i + 1
+
+            while True:
+                if len(lines[i])<2:
+                    break
+                else:
+                    title = title + ' ' + lines[i][:-2]
+                i = i + 1    
+                
+
+            data.append((first_author, title))
+            num_counter =  num_counter + 1        
+##            print("%3s %10s   %s" %(num_counter, first_author, title[:80]))         
+
+        else:
+            i = i + 1
+
+    f.close()
+    return data
+
+
+def count_duplicates(cut_off, verbose=False):
+    fffffffffff = codecs.open('/Users/nGene/Desktop/filtering.txt', "w",  encoding='utf-8')
+
+    
+    duplicate_count = 0
+    i = 1
+    for tmp1 in data_EMBASS:
+        found = False
+        highest_similarity = 0.0
+        for tmp2 in data_pubmed:
+            similarity = float(similar(tmp1[1], tmp2[1][:len(tmp1[1])]))
+            highest_similarity = max(similarity, highest_similarity)
+            if ( tmp1[0] == tmp2[0] ) and (similarity > cut_off):
+                found = True
+                duplicate_count = duplicate_count + 1
+
+##                if verbose:
+##                    print('%s \t %s ' %(tmp1[0], tmp1[1]))
+##                    print('%s \t %s ' %(tmp2[0], tmp2[1]))
+##                    print(similar(tmp1[1], tmp2[1]) + '\n')
+
+                break
+
+        first_author = tmp1[0][:10]
+        title = tmp1[1][:-1]
+        title = title[:50]
+
+        if found:
+            if verbose: print('%i\t%11s\t%51s\t%i\t'   %(i, first_author, title, similarity*100))
+            fffffffffff.write('%i\t%11s\t%51s\t%i\t\n' %(i, first_author, title, similarity*100))
+        else:
+            if verbose: print('%i\t%11s\t%51s\t\t%i'   %(i, first_author, title, highest_similarity*100))
+            fffffffffff.write('%i\t%11s\t%51s\t\t%i\n' %(i, first_author, title, highest_similarity*100))
+
+        i = i + 1               
+    print('Total # Duplicates: %d' %(duplicate_count))
+    fffffffffff.close()
+
+
+data_EMBASS = read_EMBASS('/Users/nGene/Desktop/records_EMBASS.txt', data_EMBASS)
+iterating_list(data_EMBASS)
+
+data_pubmed = read_pubmed('/Users/nGene/Desktop/pubmed_result.txt', data_pubmed, 1)
+iterating_list(data_pubmed)
+
+count_duplicates(0.9, True)

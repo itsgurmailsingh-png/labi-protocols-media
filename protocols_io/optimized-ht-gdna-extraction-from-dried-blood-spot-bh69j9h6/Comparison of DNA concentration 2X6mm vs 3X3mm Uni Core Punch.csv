@@ -1,0 +1,17 @@
+Sample_Id,well,Column,punched circle,Type,Qubit gDNA concentration (ng/µl)
+1,A11,11,Two full punch,2X6mm,3.65
+2,B11,11,Two full punch,2X6mm,3.59
+3,C11,11,Two full punch,2X6mm,2.6
+4,D11,11,Two full punch,2X6mm,2.87
+5,E11,11,Two full punch,2X6mm,3.44
+6,F11,11,Two full punch,2X6mm,4.66
+7,G11,11,Two full punch,2X6mm,2.22
+8,H11,11,Two full punch,2X6mm,3.27
+9,A12,12,Two full punch,3X3mm,0.66
+10,B12,12,Two full punch,3X3mm,2.01
+11,C12,12,Two full punch,3X3mm,0.63
+12,D12,12,Two full punch,3X3mm,1.29
+13,E12,12,Two full punch,3X3mm,0.72
+14,F12,12,Two full punch,3X3mm,1.6
+15,G12,12,Two full punch,3X3mm,0.49
+Negetive control ,H12,12,,,Too low 
