@@ -1,0 +1,449 @@
+Sample ID,Lake,Collection Date,Point,Replicate,Preservation,Extraction Method,Species,Habitat,Detection 
+LOWX003,Lake of the Woods,8/17/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX004,Lake of the Woods,8/17/2021,1,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX008,Lake of the Woods,8/17/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX009,Lake of the Woods,8/17/2021,1,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX013,Lake of the Woods,8/17/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX014,Lake of the Woods,8/17/2021,1,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX025,Lake of the Woods,8/17/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX026,Lake of the Woods,8/17/2021,3,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX030,Lake of the Woods,8/17/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX031,Lake of the Woods,8/17/2021,3,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX035,Lake of the Woods,8/17/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX036,Lake of the Woods,8/17/2021,3,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX045,Lake of the Woods,8/18/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX046,Lake of the Woods,8/18/2021,5,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX050,Lake of the Woods,8/18/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX051,Lake of the Woods,8/18/2021,5,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX055,Lake of the Woods,8/18/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+LOWX056,Lake of the Woods,8/18/2021,5,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+LOWX070,Lake of the Woods,8/17/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+LOWX071,Lake of the Woods,8/17/2021,7,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+LOWX075,Lake of the Woods,8/17/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+LOWX076,Lake of the Woods,8/17/2021,7,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+LOWX080,Lake of the Woods,8/17/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+LOWX081,Lake of the Woods,8/17/2021,7,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+LOWX102,Lake of the Woods,8/17/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,1
+LOWX103,Lake of the Woods,8/17/2021,10,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+LOWX107,Lake of the Woods,8/17/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+LOWX108,Lake of the Woods,8/17/2021,10,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+LOWX112,Lake of the Woods,8/17/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+LOWX113,Lake of the Woods,8/17/2021,10,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SHGX003,Shagawa Lake,8/2/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,1
+SHGX004,Shagawa Lake,8/2/2021,1,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SHGX008,Shagawa Lake,8/2/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SHGX009,Shagawa Lake,8/2/2021,1,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+SHGX013,Shagawa Lake,8/2/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SHGX014,Shagawa Lake,8/2/2021,1,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+SHGX025,Shagawa Lake,8/2/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,1
+SHGX026,Shagawa Lake,8/2/2021,3,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SHGX030,Shagawa Lake,8/2/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,1
+SHGX031,Shagawa Lake,8/2/2021,3,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+SHGX035,Shagawa Lake,8/2/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,1
+SHGX036,Shagawa Lake,8/2/2021,3,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SHGX045,Shagawa Lake,8/2/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,1
+SHGX046,Shagawa Lake,8/2/2021,5,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SHGX050,Shagawa Lake,8/2/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SHGX051,Shagawa Lake,8/2/2021,5,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SHGX055,Shagawa Lake,8/2/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SHGX056,Shagawa Lake,8/2/2021,5,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SHGX070,Shagawa Lake,8/3/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SHGX071,Shagawa Lake,8/3/2021,7,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SHGX075,Shagawa Lake,8/3/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SHGX076,Shagawa Lake,8/3/2021,7,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SHGX080,Shagawa Lake,8/3/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SHGX081,Shagawa Lake,8/3/2021,7,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SHGX102,Shagawa Lake,8/3/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SHGX103,Shagawa Lake,8/3/2021,10,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SHGX107,Shagawa Lake,8/3/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SHGX108,Shagawa Lake,8/3/2021,10,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SHGX112,Shagawa Lake,8/3/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SHGX113,Shagawa Lake,8/3/2021,10,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SLEX003,St. Louis River Estuary,8/24/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SLEX004,St. Louis River Estuary,8/24/2021,1,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+SLEX008,St. Louis River Estuary,8/24/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,1
+SLEX009,St. Louis River Estuary,8/24/2021,1,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SLEX013,St. Louis River Estuary,8/24/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SLEX014,St. Louis River Estuary,8/24/2021,1,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SLEX025,St. Louis River Estuary,8/25/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SLEX026,St. Louis River Estuary,8/25/2021,3,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SLEX030,St. Louis River Estuary,8/25/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SLEX031,St. Louis River Estuary,8/25/2021,3,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SLEX035,St. Louis River Estuary,8/25/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SLEX036,St. Louis River Estuary,8/25/2021,3,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SLEX045,St. Louis River Estuary,8/24/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SLEX046,St. Louis River Estuary,8/24/2021,5,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SLEX050,St. Louis River Estuary,8/24/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SLEX051,St. Louis River Estuary,8/24/2021,5,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+SLEX055,St. Louis River Estuary,8/24/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+SLEX056,St. Louis River Estuary,8/24/2021,5,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+SLEX070,St. Louis River Estuary,8/25/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SLEX071,St. Louis River Estuary,8/25/2021,7,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SLEX075,St. Louis River Estuary,8/25/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SLEX076,St. Louis River Estuary,8/25/2021,7,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SLEX080,St. Louis River Estuary,8/25/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SLEX081,St. Louis River Estuary,8/25/2021,7,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SLEX102,St. Louis River Estuary,8/25/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SLEX103,St. Louis River Estuary,8/25/2021,10,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SLEX107,St. Louis River Estuary,8/25/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SLEX108,St. Louis River Estuary,8/25/2021,10,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+SLEX112,St. Louis River Estuary,8/25/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+SLEX113,St. Louis River Estuary,8/25/2021,10,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+VERX003,Lake Vermilion,7/26/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX004,Lake Vermilion,7/26/2021,1,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+VERX008,Lake Vermilion,7/26/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX009,Lake Vermilion,7/26/2021,1,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+VERX013,Lake Vermilion,7/26/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX014,Lake Vermilion,7/26/2021,1,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+VERX025,Lake Vermilion,7/26/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX026,Lake Vermilion,7/26/2021,3,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+VERX030,Lake Vermilion,7/26/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX031,Lake Vermilion,7/26/2021,3,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+VERX035,Lake Vermilion,7/26/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX036,Lake Vermilion,7/26/2021,3,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,1
+VERX045,Lake Vermilion,7/26/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX046,Lake Vermilion,7/26/2021,5,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+VERX050,Lake Vermilion,7/26/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX051,Lake Vermilion,7/26/2021,5,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+VERX055,Lake Vermilion,7/26/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,0
+VERX056,Lake Vermilion,7/26/2021,5,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,0
+VERX070,Lake Vermilion,7/27/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+VERX071,Lake Vermilion,7/27/2021,7,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+VERX075,Lake Vermilion,7/27/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+VERX076,Lake Vermilion,7/27/2021,7,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+VERX080,Lake Vermilion,7/27/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+VERX081,Lake Vermilion,7/27/2021,7,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+VERX102,Lake Vermilion,7/27/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+VERX103,Lake Vermilion,7/27/2021,10,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+VERX107,Lake Vermilion,7/27/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+VERX108,Lake Vermilion,7/27/2021,10,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,0
+VERX112,Lake Vermilion,7/27/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,0
+VERX113,Lake Vermilion,7/27/2021,10,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,1
+LOWX003,Lake of the Woods,8/17/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX004,Lake of the Woods,8/17/2021,1,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+LOWX008,Lake of the Woods,8/17/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX009,Lake of the Woods,8/17/2021,1,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,1
+LOWX013,Lake of the Woods,8/17/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX014,Lake of the Woods,8/17/2021,1,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,1
+LOWX025,Lake of the Woods,8/17/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX026,Lake of the Woods,8/17/2021,3,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,1
+LOWX030,Lake of the Woods,8/17/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX031,Lake of the Woods,8/17/2021,3,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+LOWX035,Lake of the Woods,8/17/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX036,Lake of the Woods,8/17/2021,3,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+LOWX045,Lake of the Woods,8/18/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX046,Lake of the Woods,8/18/2021,5,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+LOWX050,Lake of the Woods,8/18/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX051,Lake of the Woods,8/18/2021,5,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,1
+LOWX055,Lake of the Woods,8/18/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+LOWX056,Lake of the Woods,8/18/2021,5,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,1
+LOWX070,Lake of the Woods,8/17/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+LOWX071,Lake of the Woods,8/17/2021,7,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+LOWX075,Lake of the Woods,8/17/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+LOWX076,Lake of the Woods,8/17/2021,7,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+LOWX080,Lake of the Woods,8/17/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+LOWX081,Lake of the Woods,8/17/2021,7,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+LOWX102,Lake of the Woods,8/17/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+LOWX103,Lake of the Woods,8/17/2021,10,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+LOWX107,Lake of the Woods,8/17/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+LOWX108,Lake of the Woods,8/17/2021,10,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+LOWX112,Lake of the Woods,8/17/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+LOWX113,Lake of the Woods,8/17/2021,10,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+PKEX003,Pike Lake,7/14/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX004,Pike Lake,7/14/2021,1,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX008,Pike Lake,7/14/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX009,Pike Lake,7/14/2021,1,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX013,Pike Lake,7/14/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX014,Pike Lake,7/14/2021,1,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX025,Pike Lake,7/14/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX026,Pike Lake,7/14/2021,3,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX030,Pike Lake,7/14/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX031,Pike Lake,7/14/2021,3,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX035,Pike Lake,7/14/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX036,Pike Lake,7/14/2021,3,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX045,Pike Lake,7/14/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX046,Pike Lake,7/14/2021,5,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX050,Pike Lake,7/14/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX051,Pike Lake,7/14/2021,5,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX055,Pike Lake,7/14/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+PKEX056,Pike Lake,7/14/2021,5,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+PKEX070,Pike Lake,7/15/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+PKEX071,Pike Lake,7/15/2021,7,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+PKEX075,Pike Lake,7/15/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+PKEX076,Pike Lake,7/15/2021,7,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+PKEX080,Pike Lake,7/15/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+PKEX081,Pike Lake,7/15/2021,7,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+PKEX102,Pike Lake,7/15/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+PKEX103,Pike Lake,7/15/2021,10,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+PKEX107,Pike Lake,7/15/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+PKEX108,Pike Lake,7/15/2021,10,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+PKEX112,Pike Lake,7/15/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+PKEX113,Pike Lake,7/15/2021,10,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SHGX003,Shagawa Lake,8/2/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX004,Shagawa Lake,8/2/2021,1,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX008,Shagawa Lake,8/2/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX009,Shagawa Lake,8/2/2021,1,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX013,Shagawa Lake,8/2/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX014,Shagawa Lake,8/2/2021,1,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX025,Shagawa Lake,8/2/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX026,Shagawa Lake,8/2/2021,3,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX030,Shagawa Lake,8/2/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX031,Shagawa Lake,8/2/2021,3,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX035,Shagawa Lake,8/2/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX036,Shagawa Lake,8/2/2021,3,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX045,Shagawa Lake,8/2/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX046,Shagawa Lake,8/2/2021,5,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX050,Shagawa Lake,8/2/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX051,Shagawa Lake,8/2/2021,5,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX055,Shagawa Lake,8/2/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SHGX056,Shagawa Lake,8/2/2021,5,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SHGX070,Shagawa Lake,8/3/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SHGX071,Shagawa Lake,8/3/2021,7,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SHGX075,Shagawa Lake,8/3/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SHGX076,Shagawa Lake,8/3/2021,7,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SHGX080,Shagawa Lake,8/3/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SHGX081,Shagawa Lake,8/3/2021,7,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SHGX102,Shagawa Lake,8/3/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SHGX103,Shagawa Lake,8/3/2021,10,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SHGX107,Shagawa Lake,8/3/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SHGX108,Shagawa Lake,8/3/2021,10,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SHGX112,Shagawa Lake,8/3/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SHGX113,Shagawa Lake,8/3/2021,10,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SLEX003,St. Louis River Estuary,8/24/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX004,St. Louis River Estuary,8/24/2021,1,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX008,St. Louis River Estuary,8/24/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX009,St. Louis River Estuary,8/24/2021,1,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX013,St. Louis River Estuary,8/24/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX014,St. Louis River Estuary,8/24/2021,1,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX025,St. Louis River Estuary,8/25/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX026,St. Louis River Estuary,8/25/2021,3,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX030,St. Louis River Estuary,8/25/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX031,St. Louis River Estuary,8/25/2021,3,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX035,St. Louis River Estuary,8/25/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX036,St. Louis River Estuary,8/25/2021,3,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX045,St. Louis River Estuary,8/24/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX046,St. Louis River Estuary,8/24/2021,5,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX050,St. Louis River Estuary,8/24/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX051,St. Louis River Estuary,8/24/2021,5,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX055,St. Louis River Estuary,8/24/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+SLEX056,St. Louis River Estuary,8/24/2021,5,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+SLEX070,St. Louis River Estuary,8/25/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SLEX071,St. Louis River Estuary,8/25/2021,7,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SLEX075,St. Louis River Estuary,8/25/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SLEX076,St. Louis River Estuary,8/25/2021,7,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SLEX080,St. Louis River Estuary,8/25/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SLEX081,St. Louis River Estuary,8/25/2021,7,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SLEX102,St. Louis River Estuary,8/25/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SLEX103,St. Louis River Estuary,8/25/2021,10,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SLEX107,St. Louis River Estuary,8/25/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SLEX108,St. Louis River Estuary,8/25/2021,10,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+SLEX112,St. Louis River Estuary,8/25/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+SLEX113,St. Louis River Estuary,8/25/2021,10,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+VERX003,Lake Vermilion,7/26/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX004,Lake Vermilion,7/26/2021,1,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+VERX008,Lake Vermilion,7/26/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX009,Lake Vermilion,7/26/2021,1,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+VERX013,Lake Vermilion,7/26/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX014,Lake Vermilion,7/26/2021,1,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+VERX025,Lake Vermilion,7/26/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX026,Lake Vermilion,7/26/2021,3,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+VERX030,Lake Vermilion,7/26/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX031,Lake Vermilion,7/26/2021,3,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+VERX035,Lake Vermilion,7/26/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX036,Lake Vermilion,7/26/2021,3,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+VERX045,Lake Vermilion,7/26/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX046,Lake Vermilion,7/26/2021,5,1,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,1
+VERX050,Lake Vermilion,7/26/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX051,Lake Vermilion,7/26/2021,5,2,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+VERX055,Lake Vermilion,7/26/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Nearshore,0
+VERX056,Lake Vermilion,7/26/2021,5,3,CTAB,phenol-chloroform-isoamyl,sw,Nearshore,0
+VERX070,Lake Vermilion,7/27/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+VERX071,Lake Vermilion,7/27/2021,7,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+VERX075,Lake Vermilion,7/27/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+VERX076,Lake Vermilion,7/27/2021,7,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+VERX080,Lake Vermilion,7/27/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+VERX081,Lake Vermilion,7/27/2021,7,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+VERX102,Lake Vermilion,7/27/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+VERX103,Lake Vermilion,7/27/2021,10,1,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+VERX107,Lake Vermilion,7/27/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+VERX108,Lake Vermilion,7/27/2021,10,2,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+VERX112,Lake Vermilion,7/27/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,sw,Offshore,0
+VERX113,Lake Vermilion,7/27/2021,10,3,CTAB,phenol-chloroform-isoamyl,sw,Offshore,0
+LOWX003,Lake of the Woods,8/17/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX004,Lake of the Woods,8/17/2021,1,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX008,Lake of the Woods,8/17/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX009,Lake of the Woods,8/17/2021,1,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX013,Lake of the Woods,8/17/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX014,Lake of the Woods,8/17/2021,1,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX025,Lake of the Woods,8/17/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX026,Lake of the Woods,8/17/2021,3,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX030,Lake of the Woods,8/17/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX031,Lake of the Woods,8/17/2021,3,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX035,Lake of the Woods,8/17/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX036,Lake of the Woods,8/17/2021,3,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX045,Lake of the Woods,8/18/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX046,Lake of the Woods,8/18/2021,5,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX050,Lake of the Woods,8/18/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX051,Lake of the Woods,8/18/2021,5,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX055,Lake of the Woods,8/18/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+LOWX056,Lake of the Woods,8/18/2021,5,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+LOWX075,Lake of the Woods,8/17/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+LOWX076,Lake of the Woods,8/17/2021,7,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+LOWX080,Lake of the Woods,8/17/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+LOWX081,Lake of the Woods,8/17/2021,7,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+LOWX102,Lake of the Woods,8/17/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+LOWX103,Lake of the Woods,8/17/2021,10,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+LOWX107,Lake of the Woods,8/17/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+LOWX108,Lake of the Woods,8/17/2021,10,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+LOWX112,Lake of the Woods,8/17/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+LOWX113,Lake of the Woods,8/17/2021,10,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+PKEX003,Pike Lake,7/14/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+PKEX004,Pike Lake,7/14/2021,1,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+PKEX008,Pike Lake,7/14/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+PKEX009,Pike Lake,7/14/2021,1,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+PKEX013,Pike Lake,7/14/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+PKEX014,Pike Lake,7/14/2021,1,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+PKEX025,Pike Lake,7/14/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+PKEX026,Pike Lake,7/14/2021,3,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+PKEX030,Pike Lake,7/14/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+PKEX031,Pike Lake,7/14/2021,3,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+PKEX035,Pike Lake,7/14/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+PKEX036,Pike Lake,7/14/2021,3,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+PKEX045,Pike Lake,7/14/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+PKEX046,Pike Lake,7/14/2021,5,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+PKEX050,Pike Lake,7/14/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+PKEX051,Pike Lake,7/14/2021,5,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+PKEX055,Pike Lake,7/14/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+PKEX056,Pike Lake,7/14/2021,5,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+PKEX070,Pike Lake,7/15/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,1
+PKEX071,Pike Lake,7/15/2021,7,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+PKEX075,Pike Lake,7/15/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,1
+PKEX076,Pike Lake,7/15/2021,7,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+PKEX080,Pike Lake,7/15/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,1
+PKEX081,Pike Lake,7/15/2021,7,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+PKEX102,Pike Lake,7/15/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+PKEX103,Pike Lake,7/15/2021,10,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+PKEX107,Pike Lake,7/15/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+PKEX108,Pike Lake,7/15/2021,10,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+PKEX112,Pike Lake,7/15/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+PKEX113,Pike Lake,7/15/2021,10,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+SLEX003,St. Louis River Estuary,8/24/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+SLEX004,St. Louis River Estuary,8/24/2021,1,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX008,St. Louis River Estuary,8/24/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+SLEX009,St. Louis River Estuary,8/24/2021,1,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX013,St. Louis River Estuary,8/24/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+SLEX014,St. Louis River Estuary,8/24/2021,1,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX025,St. Louis River Estuary,8/25/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+SLEX026,St. Louis River Estuary,8/25/2021,3,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX030,St. Louis River Estuary,8/25/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+SLEX031,St. Louis River Estuary,8/25/2021,3,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX035,St. Louis River Estuary,8/25/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+SLEX036,St. Louis River Estuary,8/25/2021,3,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX045,St. Louis River Estuary,8/24/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+SLEX046,St. Louis River Estuary,8/24/2021,5,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX050,St. Louis River Estuary,8/24/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,1
+SLEX051,St. Louis River Estuary,8/24/2021,5,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX055,St. Louis River Estuary,8/24/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+SLEX056,St. Louis River Estuary,8/24/2021,5,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,1
+SLEX070,St. Louis River Estuary,8/25/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+SLEX071,St. Louis River Estuary,8/25/2021,7,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+SLEX075,St. Louis River Estuary,8/25/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+SLEX076,St. Louis River Estuary,8/25/2021,7,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+SLEX080,St. Louis River Estuary,8/25/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+SLEX081,St. Louis River Estuary,8/25/2021,7,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+SLEX102,St. Louis River Estuary,8/25/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+SLEX103,St. Louis River Estuary,8/25/2021,10,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+SLEX107,St. Louis River Estuary,8/25/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+SLEX108,St. Louis River Estuary,8/25/2021,10,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+SLEX112,St. Louis River Estuary,8/25/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+SLEX113,St. Louis River Estuary,8/25/2021,10,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,1
+VERX003,Lake Vermilion,7/26/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX004,Lake Vermilion,7/26/2021,1,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX008,Lake Vermilion,7/26/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX009,Lake Vermilion,7/26/2021,1,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX013,Lake Vermilion,7/26/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX014,Lake Vermilion,7/26/2021,1,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX025,Lake Vermilion,7/26/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX026,Lake Vermilion,7/26/2021,3,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX030,Lake Vermilion,7/26/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX031,Lake Vermilion,7/26/2021,3,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX035,Lake Vermilion,7/26/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX036,Lake Vermilion,7/26/2021,3,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX045,Lake Vermilion,7/26/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX046,Lake Vermilion,7/26/2021,5,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX050,Lake Vermilion,7/26/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX051,Lake Vermilion,7/26/2021,5,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX055,Lake Vermilion,7/26/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,0
+VERX056,Lake Vermilion,7/26/2021,5,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,0
+VERX070,Lake Vermilion,7/27/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+VERX071,Lake Vermilion,7/27/2021,7,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+VERX075,Lake Vermilion,7/27/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+VERX076,Lake Vermilion,7/27/2021,7,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+VERX080,Lake Vermilion,7/27/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+VERX081,Lake Vermilion,7/27/2021,7,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+VERX102,Lake Vermilion,7/27/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+VERX103,Lake Vermilion,7/27/2021,10,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+VERX107,Lake Vermilion,7/27/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+VERX108,Lake Vermilion,7/27/2021,10,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+VERX112,Lake Vermilion,7/27/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,0
+VERX113,Lake Vermilion,7/27/2021,10,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,0
+PKEX003,Pike Lake,7/14/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX004,Pike Lake,7/14/2021,1,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX008,Pike Lake,7/14/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX009,Pike Lake,7/14/2021,1,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX013,Pike Lake,7/14/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX014,Pike Lake,7/14/2021,1,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX025,Pike Lake,7/14/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX026,Pike Lake,7/14/2021,3,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX030,Pike Lake,7/14/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX031,Pike Lake,7/14/2021,3,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX035,Pike Lake,7/14/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX036,Pike Lake,7/14/2021,3,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX045,Pike Lake,7/14/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX046,Pike Lake,7/14/2021,5,1,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX050,Pike Lake,7/14/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX051,Pike Lake,7/14/2021,5,2,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX055,Pike Lake,7/14/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Nearshore,NA
+PKEX056,Pike Lake,7/14/2021,5,3,CTAB,phenol-chloroform-isoamyl,rc,Nearshore,NA
+PKEX070,Pike Lake,7/15/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,NA
+PKEX071,Pike Lake,7/15/2021,7,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,NA
+PKEX075,Pike Lake,7/15/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,NA
+PKEX076,Pike Lake,7/15/2021,7,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,NA
+PKEX080,Pike Lake,7/15/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,NA
+PKEX081,Pike Lake,7/15/2021,7,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,NA
+PKEX102,Pike Lake,7/15/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,NA
+PKEX103,Pike Lake,7/15/2021,10,1,CTAB,phenol-chloroform-isoamyl,rc,Offshore,NA
+PKEX107,Pike Lake,7/15/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,NA
+PKEX108,Pike Lake,7/15/2021,10,2,CTAB,phenol-chloroform-isoamyl,rc,Offshore,NA
+PKEX112,Pike Lake,7/15/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,rc,Offshore,NA
+PKEX113,Pike Lake,7/15/2021,10,3,CTAB,phenol-chloroform-isoamyl,rc,Offshore,NA
+SHGX003,Shagawa Lake,8/2/2021,1,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX004,Shagawa Lake,8/2/2021,1,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX008,Shagawa Lake,8/2/2021,1,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX009,Shagawa Lake,8/2/2021,1,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX013,Shagawa Lake,8/2/2021,1,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX014,Shagawa Lake,8/2/2021,1,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX025,Shagawa Lake,8/2/2021,3,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX026,Shagawa Lake,8/2/2021,3,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX030,Shagawa Lake,8/2/2021,3,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX031,Shagawa Lake,8/2/2021,3,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX035,Shagawa Lake,8/2/2021,3,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX036,Shagawa Lake,8/2/2021,3,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX045,Shagawa Lake,8/2/2021,5,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX046,Shagawa Lake,8/2/2021,5,1,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX050,Shagawa Lake,8/2/2021,5,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX051,Shagawa Lake,8/2/2021,5,2,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX055,Shagawa Lake,8/2/2021,5,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Nearshore,NA
+SHGX056,Shagawa Lake,8/2/2021,5,3,CTAB,phenol-chloroform-isoamyl,zm,Nearshore,NA
+SHGX070,Shagawa Lake,8/3/2021,7,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,NA
+SHGX071,Shagawa Lake,8/3/2021,7,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,NA
+SHGX075,Shagawa Lake,8/3/2021,7,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,NA
+SHGX076,Shagawa Lake,8/3/2021,7,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,NA
+SHGX080,Shagawa Lake,8/3/2021,7,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,NA
+SHGX081,Shagawa Lake,8/3/2021,7,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,NA
+SHGX102,Shagawa Lake,8/3/2021,10,1,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,NA
+SHGX103,Shagawa Lake,8/3/2021,10,1,CTAB,phenol-chloroform-isoamyl,zm,Offshore,NA
+SHGX107,Shagawa Lake,8/3/2021,10,2,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,NA
+SHGX108,Shagawa Lake,8/3/2021,10,2,CTAB,phenol-chloroform-isoamyl,zm,Offshore,NA
+SHGX112,Shagawa Lake,8/3/2021,10,3,ETOH,Qiagen DNeasy Powersoil Pro Kit,zm,Offshore,NA
+SHGX113,Shagawa Lake,8/3/2021,10,3,CTAB,phenol-chloroform-isoamyl,zm,Offshore,NA

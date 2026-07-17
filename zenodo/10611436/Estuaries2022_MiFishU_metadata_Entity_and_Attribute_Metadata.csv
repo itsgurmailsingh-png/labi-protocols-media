@@ -1,0 +1,39 @@
+DataSet,Col_Lable,Col_Definition,Col_Type,Values,Value_Definition,NA_code,NA_definition,Min,Max,Units,Resolution
+Estuaries2022_MiFishU_metadata,Location,Location,text,NA,The estuary that was sampled,,missing or uncalculated,NA,NA,NA,NA
+Estuaries2022_MiFishU_metadata,Site,Site,text,NA,The location within the estuary that was sampled,,missing or uncalculated,NA,NA,NA,NA
+Estuaries2022_MiFishU_metadata,Date,Date,text,NA,The sampling date,,missing or uncalculated,NA,NA,D-M-Y,NA
+Estuaries2022_MiFishU_metadata,SampleId,SampleId,text,NA,The replicate number provided by Jonah Ventures,,missing or uncalculated,NA,NA,NA,NA
+Estuaries2022_MiFishU_metadata,Filter.1,Filter.1,text,NA,Replicate number as written on the datasheet,,missing or uncalculated,NA,NA,NA,NA
+Estuaries2022_MiFishU_metadata,Assay,Assay,text,NA,The taxa the primer was meant to match with,,missing or uncalculated,NA,NA,NA,NA
+Estuaries2022_MiFishU_metadata,Rep1,Rep1,numeric,NA,Reads,,missing or uncalculated,0,1374,reads,1
+Estuaries2022_MiFishU_metadata,Rep2,Rep2,numeric,NA,Reads,,missing or uncalculated,0,1557,reads,1
+Estuaries2022_MiFishU_metadata,Rep3,Rep3,numeric,NA,Reads,,missing or uncalculated,0,1490,reads,1
+Estuaries2022_MiFishU_metadata,AvgCopyNum,AvgCopyNum,numeric,NA,average reads across replicates,,missing or uncalculated,0,1418,reads,1
+Estuaries2022_MiFishU_metadata,PctDetection,PctDetection,numeric,NA,proportion of replicates with > 0 reads,,missing or uncalculated,0,100,proportion,0.01
+Estuaries2022_MiFishU_metadata,Rep1P,Rep1P,numeric,NA,present or absent,,missing or uncalculated,0,1,presence,1
+Estuaries2022_MiFishU_metadata,Rep2P,Rep2P,numeric,NA,present or absent,,missing or uncalculated,0,1,presence,1
+Estuaries2022_MiFishU_metadata,Rep3P,Rep3P,numeric,NA,present or absent,,missing or uncalculated,0,1,presence,1
+Estuaries2022_MiFishU_metadata,VOL.1,VOL.1,numeric,NA,how much water was filtered,,missing or uncalculated,40,400,ml,5
+Estuaries2022_MiFishU_metadata,Time,Time,text,NA,The time of day at sampling,,missing or uncalculated,NA,NA,H:M,NA
+Estuaries2022_MiFishU_metadata,Lat,Lat,text,NA,sampling location,,missing or uncalculated,NA,NA,decimal degrees or minute seconds,1 second
+Estuaries2022_MiFishU_metadata,Long,Long,text,NA,sampling location,,missing or uncalculated,NA,NA,decimal degrees or minute seconds,1 second
+Estuaries2022_MiFishU_metadata,Units,Units,factor,"MS, DD","MS is meters seconds, DD is decimal degrees (i.e., what unit was entered)",,missing or uncalculated,NA,NA,NA,NA
+Estuaries2022_MiFishU_metadata,Width..m.,Width..m.,numeric,NA,how wide the seine was,,missing or uncalculated,2,4,meters, 0.5 m
+Estuaries2022_MiFishU_metadata,Length..m.,Length..m.,numeric,NA,the distance over which  the seine was pulled,,missing or uncalculated,4,14,meters, 0.5 m
+Estuaries2022_MiFishU_metadata,Depth,Depth,numeric,NA,the depth of the water that was seined,,missing or uncalculated,0.3,0.75,meters,0.05 m
+Estuaries2022_MiFishU_metadata,Temp,Temp,numeric,NA,the water temperature at sampling,,missing or uncalculated,18.2,30,degrees C,1 d C
+Estuaries2022_MiFishU_metadata,Cond,Cond,numeric,NA,The conductivity at sampling,,missing or uncalculated,2.9,160,ppt,1 ppt
+Estuaries2022_MiFishU_metadata,DO..mg.L.,DO..mg.L.,numeric,NA,The dissolved oxygen at sampling,,missing or uncalculated,6.5,170,mg/L,1 mg/L
+Estuaries2022_MiFishU_metadata,Cerithidiopsis,Cerithidiopsis,text,NA,If mud snails were present,,missing or uncalculated,NA,NA,presence,1
+Estuaries2022_MiFishU_metadata,Tidewater.goby,Tidewater.goby,text,NA,fish species counts or present if not counted,,missing or uncalculated,NA,NA,count or presence,1
+Estuaries2022_MiFishU_metadata,Arrow.Goby,Arrow.Goby,text,NA,fish species counts or present if not counted,,missing or uncalculated,0,22,count or presence,1
+Estuaries2022_MiFishU_metadata,Killfish,Killfish,text,NA,fish species counts or present if not counted,,missing or uncalculated,NA,NA,count or presence,1
+Estuaries2022_MiFishU_metadata,Topsmelt,Topsmelt,text,NA,fish species counts or present if not counted,,missing or uncalculated,NA,NA,count or presence,1
+Estuaries2022_MiFishU_metadata,Halibut,Halibut,text,NA,fish species counts or present if not counted,,missing or uncalculated,0,2,count or presence,1
+Estuaries2022_MiFishU_metadata,Bay.Pipefish,Bay.Pipefish,text,NA,fish species counts or present if not counted,,missing or uncalculated,0,1,count or presence,1
+Estuaries2022_MiFishU_metadata,Staghorn.Sculpin,Staghorn.Sculpin,text,NA,fish species counts or present if not counted,,missing or uncalculated,0,1,count or presence,1
+Estuaries2022_MiFishU_metadata,Mudsucker,Mudsucker,text,NA,fish species counts or present if not counted,,missing or uncalculated,0,1,count or presence,1
+Estuaries2022_MiFishU_metadata,Shadow.goby,Shadow.goby,text,NA,fish species counts or present if not counted,,missing or uncalculated,0,1,count or presence,1
+Estuaries2022_MiFishU_metadata,Mullet,Mullet,text,NA,fish species counts or present if not counted,,missing or uncalculated,NA,NA,count or presence,1
+Estuaries2022_MiFishU_metadata,Moquitofish,Moquitofish,text,NA,fish species counts or present if not counted,,missing or uncalculated,NA,NA,count or presence,1
+Estuaries2022_MiFishU_metadata,Guitarfish,Guitarfish,text,NA,fish species counts or present if not counted,,missing or uncalculated,NA,NA,count or presence,1

@@ -1,0 +1,18 @@
+DataSet,Col_Lable,Col_Definition,Col_Type,Values,Value_Definition,NA_code,NA_definition,Min,Max,Units,Resolution
+DataToResampleMetabarcodesR,Site,Site,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+DataToResampleMetabarcodesR,SiteNo,SiteNo,numeric,NA,NA,,missing or uncalculated,1,8,presence,1
+DataToResampleMetabarcodesR,Replicate,Replicate,numeric,NA,NA,,missing or uncalculated,1,2,presence,1
+DataToResampleMetabarcodesR,Atherinops,a fish genus,numeric,NA,NA,,missing or uncalculated,1,1,presence,1
+DataToResampleMetabarcodesR,Citharichthys,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Clevelandia,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Cymatogaster,a fish genus,numeric,NA,NA,,missing or uncalculated,1,1,presence,1
+DataToResampleMetabarcodesR,Cypriniformes,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Fundulus,a fish genus,numeric,NA,NA,,missing or uncalculated,1,1,presence,1
+DataToResampleMetabarcodesR,Gambusia,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Gillichthys,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Hypsopsetta,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Leptocottus,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Micropterus,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Mugil,a fish genus,numeric,NA,NA,,missing or uncalculated,1,1,presence,1
+DataToResampleMetabarcodesR,Paralichthys,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleMetabarcodesR,Goby,a fish family,numeric,NA,NA,,missing or uncalculated,0,1,presence,1

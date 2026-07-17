@@ -1,0 +1,6 @@
+DataSet,Col_Lable,Col_Definition,Col_Type,Values,Value_Definition,NA_code,NA_definition,Min,Max,Units,Resolution
+New_Estuary_Data,Estuary,The Estuary the sample was taken from,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+New_Estuary_Data,SiteName,My name  for the location within the estuary,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+New_Estuary_Data,SampleId,SampleId that comes from Jonah Ventures,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+New_Estuary_Data,taxon_name,The name corresponding to the  lowest taxonomic rank of the consensus taxonomy.,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+New_Estuary_Data,sumreads,the total number of reads among all instances of a consensus taxonomy,numeric,NA,NA,,missing or uncalculated,8,20433,qPCR reads,1

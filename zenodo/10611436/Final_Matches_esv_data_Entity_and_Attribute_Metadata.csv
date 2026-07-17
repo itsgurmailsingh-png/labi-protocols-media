@@ -1,0 +1,4 @@
+DataSet,Col_Lable,Col_Definition,Col_Type,Values,Value_Definition,NA_code,NA_definition,Min,Max,Units,Resolution
+Final_Matches_esv_data,ESVId,ESVId,text,NA,Sequence lable provided by Jonah Ventures ,,missing or uncalculated,NA,NA,NA,NA
+Final_Matches_esv_data,Most_Likely,Most_Likely,text,NA,the most likely consensus  taxon name,,missing or uncalculated,NA,NA,NA,NA
+Final_Matches_esv_data,Alternative_Likely,Alternative_Likely,text,NA,alternative consensus names,,missing or uncalculated,NA,NA,NA,NA

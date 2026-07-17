@@ -1,0 +1,28 @@
+Field,Entries
+Title,DataToResampleMetabarcodesR
+Dataset_Author,Kevin D. Lafferty
+Dataset_Format,spreadsheet
+Date,20230801
+Link,URL pending
+Abstract,These presence/absence data on fish species detections from metabarcoding at Calleguas Creek are organized as a matrix with samples/sites as rows and species as columns.  An entry of 1 means the species was detected at that site/sample.  A 0 means it was not detected.  The matrix was developed by summarizing information in the New_Estuary_Data.csv file.
+Purpose,The data are resampled to plot the cumulative richness detected from a particular sampling effort.  Doing this several times makes it possible to plot confidence limits around the estimate.
+Contact_Person,Kevin D. Lafferty
+Address 1(Number of Street),"US Geological Survey, Western Ecological Research Center, c/o Marine Science Institute, University of California"
+Telephone,805 968 4226
+City_State,"Santa Barbara, CA"
+Zipcode,93106
+Thesaurus,Thesaurus:None
+Keyword,"Fishes, eDNA, Consensus taxonomy"
+Taxonomy,Yes
+Status,In work
+Update_Plans,As Needed
+Time_Period_Start,Time Period_Start:20220801
+Time_Period_End,Time Period_End:20230801
+Currentness_Reference,date pending
+Native_Data_Set_Environment,CSV
+Supplemental_Information,Supplemental Online Tables and Code
+Spatial_Description,Southern California Estuaries: Santa Barbara and Ventura Counties
+West,-120.1
+East,-118.1
+North,35.1
+South,33.1

@@ -1,0 +1,13 @@
+DataSet,Col_Lable,Col_Definition,Col_Type,Values,Value_Definition,NA_code,NA_definition,Min,Max,Units,Resolution
+DataToResampleSeinesR,Site,Site,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+DataToResampleSeinesR,SiteNo,SiteNo,numeric,NA,NA,,missing or uncalculated,1,8,presence,1
+DataToResampleSeinesR,Replicate,Replicate,numeric,NA,NA,,missing or uncalculated,1,1,presence,1
+DataToResampleSeinesR,Clevelandia,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleSeinesR,Fundulus,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleSeinesR,Atherinops,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleSeinesR,Paralichthys,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleSeinesR,Syngnathus,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleSeinesR,Leptocottus,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleSeinesR,Gillichthys,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleSeinesR,Quietula,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1
+DataToResampleSeinesR,Mugil,a fish genus,numeric,NA,NA,,missing or uncalculated,0,1,presence,1

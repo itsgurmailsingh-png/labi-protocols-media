@@ -1,0 +1,38 @@
+﻿Field;Unit;Values ->;;;;;;;;;;
+Title;text;Explosion_test_No_flap;Explosion_test_flap_locked_open;Explosion_test_flap_locked_open+combustion;Explosion_test_with_flap_fail;Explosion_test_with_flap_success;Explosion_test_with_flap_success_far;Explosion_test_with_flap_success_far_slower_flap;Explosion_test_with_flap_success_far_faster_flap;Explosion_test_with_flap_success_farther;Push_flow;Pull_flow
+Max_calculation_time;s;1;1;1;1;1;1;1;1;1;1;1
+Verbose;none, 0: basic info, 1: more detailled csv, 2: complete duct data;2;2;2;2;2;2;2;2;2;2;2
+Save_step;ms;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5
+Cells_by_m;/m;20;20;20;20;20;20;20;20;20;20;20
+CFL;none;0.25;0.25;0.25;0.25;0.15;0.15;0.15;0.15;0.15;0.15;0.15
+Artificial_viscosity;none;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5
+Vessel_volume;m3;5;5;5;5;5;5;5;5;5;5;5
+Vessel_diameter;m;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5
+Vent_area_or_diameter_in_m_if_negative;m2;-0.6;-0.6;-0.6;-0.6;-0.6;-0.6;-0.6;-0.6;-0.6;-0.6;-0.6
+Vessel_permanently_open_pipe_diameter;m;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2
+Pstat_vent;mbar;100;100;100;100;100;100;100;100;100;100;100
+Flame_St;m/s;2;2;2;2;2;2;2;2;2;2;2
+Flame_E;none;7.5;7.5;7.5;7.5;7.5;7.5;7.5;7.5;7.5;7.5;7.5
+Allow_secondary_explosion_in_the_vessel;0: no, 1: yes;0;0;1;1;1;1;1;1;1;1;1
+Allow_secondary_explosion_in_the_flap;0: no, 1: yes;0;0;1;1;1;1;1;1;1;1;1
+Spherical_flame_growth_coeff;none;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5
+Initial_vessel_pressure;Pa;111325;111325;111325;111325;111325;111325;111325;111325;111325;101325;101325
+Ignition_delay;s;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5
+Distance_ignition-vent;m;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5
+Distance_ignition-permanent_opening;m;1;1;1;1;1;1;1;1;1;1;1
+Distance_ignition-pipe;m;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3
+Pipe_diameter;mm;200;200;200;200;200;200;200;200;200;200;200
+Pipe_length_before_flap;m;8.7;5;5;3;4;5;5;5;6;4;4
+Pipe_length_after_flap;m;0;3;3;5;4;3;3;3;2;4;4
+Inner_flap_diameter;mm;300;300;300;300;300;300;300;300;300;300;300
+Inner_flap_mass;kg;1;1;1;1;1;1;1;1;1;1;1
+Inner_flap_dist_gravity_to_axis;mm;200;200;200;200;200;200;200;200;200;200;200
+Inertia_momentum_arround_axis;kg.m2;0.1;0.1;0.1;0.1;0.1;0.1;0.2;0.05;0.1;0.1;0.1
+Damping_coefficient;none;0.15;0.15;0.15;0.15;0.15;0.15;0.3;0.07;0.15;0.15;0.15
+Flap_departure_velocity;m/s;20;123456;123456;20;20;20;20;20;20;0;0
+Flap_body_length_0_if_no_flap;mm;0;700;700;700;700;700;700;700;700;700;700
+Flap_body_max_diameter;mm;350;350;350;350;350;350;350;350;350;350;350
+Flap_departure_angle;°;60;60;60;60;60;60;60;60;60;60;60
+Flap_arrival_angle;°;20;20;20;20;20;20;20;20;20;20;20
+Flap_inclination;°;0;0;0;0;0;0;0;0;0;0;0
+Fan_overpressure;mbar;0;0;0;0;0;0;0;0;0;30;-30

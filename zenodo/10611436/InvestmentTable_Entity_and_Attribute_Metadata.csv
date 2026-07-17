@@ -1,0 +1,8 @@
+DataSet,Col_Lable,Col_Definition,Col_Type,Values,Value_Definition,NA_code,NA_definition,Min,Max,Units,Resolution
+InvestmentTable,Investment,The category of effort taken,text,text,NA,,missing or uncalculated,NA,NA,tecnician hours,0.5
+InvestmentTable,Variable,parameter code,text,text,NA,,missing or uncalculated,NA,NA,tecnician hours,0.5
+InvestmentTable,qPCR,value for doing qPCR,text,numerical,NA,,missing or uncalculated,0,7.5,tecnician hours,0.5
+InvestmentTable,goby.metabarcode,value for doing metabarcoding to detect tidewater gobies,text,numerical,NA,,missing or uncalculated,0,4,tecnician hours,0.5
+InvestmentTable,fish.metabarcode,value for doing metabarcoding,text,numerical,NA,,missing or uncalculated,0,8,tecnician hours,0.5
+InvestmentTable,goby.seine,value for seining tidewater gobies,text,numerical,NA,,missing or uncalculated,0,15,tecnician hours,0.5
+InvestmentTable,fish.seine,value for seining fishes,text,numerical,NA,,missing or uncalculated,0,15,tecnician hours,0.5

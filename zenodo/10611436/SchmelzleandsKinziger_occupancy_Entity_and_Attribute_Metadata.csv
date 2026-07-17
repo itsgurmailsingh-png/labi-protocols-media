@@ -1,0 +1,21 @@
+DataSet,Col_Lable,Col_Definition,Col_Type,Values,Value_Definition,NA_code,NA_definition,Min,Max,Units,Resolution
+SchmelzleandsKinziger_occupancy,site,site,numeric,NA,NA,,missing or uncalculated,1,167,site count,1
+SchmelzleandsKinziger_occupancy,sample,sample,numeric,NA,NA,,missing or uncalculated,1,2,sample count,1
+SchmelzleandsKinziger_occupancy,pcr1,pcr1,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,pcr2,pcr2,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,pcr3,pcr3,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,pcr4,pcr4,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,pcr5,pcr5,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,pcr6,pcr6,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Big_Lagoon,Big_Lagoon,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Davis_Lake,Davis_Lake,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Eel_River_Estuary_Preserve,Eel_River_Estuary_Preserve,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,HBNWR_SCU_North,HBNWR_SCU_North,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,HBNWR_SCU_South,HBNWR_SCU_South,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Lake_Earl,Lake_Earl,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Martin_Slough_,Martin_Slough_,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Ocean_Ranch,Ocean_Ranch,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Salt_River,Salt_River,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Stone_Lagoon,Stone_Lagoon,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Ten_Mile_River,Ten_Mile_River,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1
+SchmelzleandsKinziger_occupancy,Tillas_Slough,Tillas_Slough,numeric,NA,NA,,missing or uncalculated,0,1,presence:absence,1

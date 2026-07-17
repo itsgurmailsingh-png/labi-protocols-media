@@ -1,0 +1,79 @@
+﻿Location,Site,Date,SampleId,Filter 1,Assay,Rep1,Rep2,Rep3,AvgCopyNum,PctDetection,Rep1P,Rep2P,Rep3P,VOL 1,Time,Lat,Long,Units,Width (m),Length (m),Depth,Temp,Cond,DO (mg/L),Cerithidiopsis,Tidewater goby,Arrow Goby,Killfish,Topsmelt,Halibut,Bay Pipefish,Staghorn Sculpin,Mudsucker,Shadow goby,Mullet,Moquitofish,Guitarfish
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,0166WUI5,0166WUI5,TidewaterGoby01,168,363,136,222.33,100,1,1,1,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,5DZGRPJ8,5DZGRPJ8,TidewaterGoby01,36,0,74,36.67,66.67,0,0,0,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,5W8VHBOX,5W8VHBOX,TidewaterGoby01,34,0,0,11.33,33.33,0,0,0,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,6FC330ZX,6FC330ZX,TidewaterGoby01,100,71,64,78.33,100,0,0,0,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,0
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,A3T3UW2T,A3T3UW2T,TidewaterGoby01,1145,1029,1299,1157.67,100,1,1,1,80,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,0
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,AF6NPL98,AF6NPL98,TidewaterGoby01,83,179,147,136.33,100,0,1,1,90,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,0
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,K56BBPGJ,K56BBPGJ,TidewaterGoby01,168,252,277,232.33,100,1,1,1,95,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,M3BWLMVW,M3BWLMVW,TidewaterGoby01,263,283,77,207.67,100,1,1,0,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,0
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,OAZV1TYJ,OAZV1TYJ,TidewaterGoby01,102,222,95,139.67,100,1,1,0,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,0ICAOEM8,0ICAOEM8,TidewaterGoby01,0,32,0,10.67,33.33,0,0,0,110,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,PFDNIGDZ,PFDNIGDZ,TidewaterGoby01,191,75,96,120.67,100,1,0,0,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,0
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,Q3HPLTAL,Q3HPLTAL,TidewaterGoby01,195,0,96,97,66.67,1,0,0,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,SD2QNYHT,SD2QNYHT,TidewaterGoby01,0,0,0,0,0,0,0,0,80,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,0
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,SNF5Y17H,SNF5Y17H,TidewaterGoby01,112,156,218,162,100,1,1,1,90,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,0
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,SSEHN2DP,SSEHN2DP,TidewaterGoby01,36,35,241,104,100,0,0,1,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,VTSM35KT,VTSM35KT,TidewaterGoby01,128,196,208,177.33,100,1,1,1,100,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,P
+Santa Clara River,Santa Clara River Mouth,17-Aug-22,ZF0XLNXD,ZF0XLNXD,TidewaterGoby01,268,299,141,236,100,1,1,1,85,13:30,"34 4' 8""","119 15' 53""",MS,,,0.3,23.8,2.9,16.5,0,0,0,0,0,0,0,0,0,0,P,P,0
+Calleguas Creek,Revlon Slough - Up 2,16-Aug-22,1Y7HTTUZ,1Y7HTTUZ,TidewaterGoby01,0,0,0,0,0,0,0,0,140,11:43,34.11568,-119.08081,DD,2,6,0.6,21.1,35.3,7,P,0,0,1,0,0,0,1,0,0,P,0,0
+Calleguas Creek,Revlon Slough - Up 2,16-Aug-22,73HOCNFX,73HOCNFX,TidewaterGoby01,0,0,0,0,0,0,0,0,130,11:43,34.11568,-119.08081,DD,2,6,0.6,21.1,35.3,7,P,0,0,1,0,0,0,1,0,0,P,0,0
+Calleguas Creek,Revlon Slough - Up 1,16-Aug-22,F33R74EO,F33R74EO,TidewaterGoby01,0,0,0,0,0,0,0,0,300,12:13,34.11424,-119.08168,DD,4,4,0.7,18.6,42.7,7,P,0,0,8,5,1,0,0,0,0,P,0,0
+Calleguas Creek,Revlon Slough - Up 1,16-Aug-22,V7RYHLTF,V7RYHLTF,TidewaterGoby01,0,0,0,0,0,0,0,0,300,12:13,34.11424,-119.08168,DD,4,4,0.7,18.6,42.7,7,P,0,0,8,5,1,0,0,0,0,P,0,0
+Calleguas Creek,Revlon Slough - Down 1,16-Aug-22,NQ36AGNG,NQ36AGNG,TidewaterGoby01,0,0,0,0,0,0,0,0,70,10:10,34.11304,-119.08331,DD,2,6,0.6,20.9,35.1,6.5,P,0,1,7,40,1,1,1,0,0,P,0,0
+Calleguas Creek,Revlon Slough - Down 1,16-Aug-22,XVU6B64D,XVU6B64D,TidewaterGoby01,0,0,0,0,0,0,0,0,100,10:10,34.11304,-119.08331,DD,2,6,0.6,20.9,35.1,6.5,P,0,1,7,40,1,1,1,0,0,P,0,0
+Mugu Lagoon,L-Street Culvert B,16-Aug-22,E6K19N4I,E6K19N4I,TidewaterGoby01,0,0,0,0,0,0,0,0,200,12:45,"34 6' 20""","119 7' 36""",MS,,,0.3,18.2,43,8,P,0,0,P,0,0,0,0,0,0,P,0,0
+Mugu Lagoon,L-Street Culvert B,16-Aug-22,JTATZ0K5,JTATZ0K5,TidewaterGoby01,0,0,0,0,0,0,0,0,200,12:45,"34 6' 20""","119 7' 36""",MS,,,0.3,18.2,43,8,P,0,0,P,0,0,0,0,0,0,P,0,0
+Mugu Lagoon,L-Street Culvert A,16-Aug-22,IWDVXH17,IWDVXH17,TidewaterGoby01,0,0,0,0,0,0,0,0,200,12:45,"34 6' 20""","119 7' 36""",MS,,,0.3,18.2,43,8,P,0,0,P,0,0,0,0,0,0,P,0,0
+Mugu Lagoon,L-Street Culvert A,16-Aug-22,U31X05GU,U31X05GU,TidewaterGoby01,0,0,0,0,0,0,0,0,220,12:45,"34 6' 20""","119 7' 36""",MS,,,0.3,18.2,43,8,P,0,0,P,0,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,0EY3JUQG,0EY3JUQG,TidewaterGoby01,640,586,654,626.67,100,1,1,1,300,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,3MN03WCU,3MN03WCU,TidewaterGoby01,990,1016,751,919,100,1,1,1,350,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,4K1V2B70,4K1V2B70,TidewaterGoby01,203,171,226,200,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,54M852FW,54M852FW,TidewaterGoby01,477,766,642,628.33,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,8FZSGQC6,8FZSGQC6,TidewaterGoby01,1158,1037,865,1020,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,8HDYA6AT,8HDYA6AT,TidewaterGoby01,585,574,708,622.33,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,8YPPQ58L,8YPPQ58L,TidewaterGoby01,503,699,599,600.33,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,97QVXLNB,97QVXLNB,TidewaterGoby01,1298,1293,1350,1313.67,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,A6GEWDM0,A6GEWDM0,TidewaterGoby01,900,699,853,817.33,100,1,1,1,320,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,8TNQ3QEN,8TNQ3QEN,TidewaterGoby01,654,496,481,543.67,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,EOLR86S9,EOLR86S9,TidewaterGoby01,580,594,680,618,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,GI9NGV51,GI9NGV51,TidewaterGoby01,735,644,798,725.67,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,ICW0XL4W,ICW0XL4W,TidewaterGoby01,1150,1296,1191,1212.33,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,K49UTWXN,K49UTWXN,TidewaterGoby01,1134,984,1105,1074.33,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,O97C31FZ,O97C31FZ,TidewaterGoby01,550,711,794,685,100,1,1,1,380,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,PKC9HRCO,PKC9HRCO,TidewaterGoby01,847,1109,1103,1019.67,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,QKOK5NVQ,QKOK5NVQ,TidewaterGoby01,1374,1246,1326,1315.33,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,RV1Z2FN1,RV1Z2FN1,TidewaterGoby01,1207,1557,1490,1418,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,T6UYA40I,T6UYA40I,TidewaterGoby01,911,750,699,786.67,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,V12I57BA,V12I57BA,TidewaterGoby01,1060,910,1002,990.67,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Ormond Lagoon,J Street Canal,17-Aug-22,YCSYA7NE,YCSYA7NE,TidewaterGoby01,787,962,1007,918.67,100,1,1,1,400,10:00,"34 8' 23""","119 11' 20""",MS,,,0.3,24.7,14.7,10.7,0,P,0,0,P,0,0,0,0,0,P,0,0
+Devereux Slough,Devereux-Venoco Bridge NCOS,15-Aug-22,O3PTMHG6,O3PTMHG6,TidewaterGoby01,0,0,0,0,0,0,0,0,45,12:44,"34 25' 4""","119 52' 27""",MS,,,0.3,27.5,160,91,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge NCOS,15-Aug-22,14CG6GVP,14CG6GVP,TidewaterGoby01,0,0,0,0,0,0,0,0,45,12:44,"34 25' 4""","119 52' 27""",MS,,,0.3,27.5,160,91,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge NCOS,15-Aug-22,FQHMI6N9,FQHMI6N9,TidewaterGoby01,0,0,0,0,0,0,0,0,45,12:44,"34 25' 4""","119 52' 27""",MS,,,0.3,27.5,160,91,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge NCOS,15-Aug-22,FYP0R8D7,FYP0R8D7,TidewaterGoby01,0,0,0,0,0,0,0,0,40,12:44,"34 25' 4""","119 52' 27""",MS,,,0.3,27.5,160,91,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge NCOS,15-Aug-22,R5LT1TO7,R5LT1TO7,TidewaterGoby01,0,0,0,0,0,0,0,0,50,12:44,"34 25' 4""","119 52' 27""",MS,,,0.3,27.5,160,91,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge COPR,15-Aug-22,7VXU09E9,7VXU09E9,TidewaterGoby01,0,0,0,0,0,0,0,0,55,11:00,"34 25' 3""","119 52' 27""",MS,,,0.3,26.6,158,90,0,0,0,P,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge COPR,15-Aug-22,D8Q44JR4,D8Q44JR4,TidewaterGoby01,0,0,0,0,0,0,0,0,60,11:00,"34 25' 3""","119 52' 27""",MS,,,0.3,26.6,158,90,0,0,0,P,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge COPR,15-Aug-22,JIXBJIZ3,JIXBJIZ3,TidewaterGoby01,0,0,0,0,0,0,0,0,40,11:00,"34 25' 3""","119 52' 27""",MS,,,0.3,26.6,158,90,0,0,0,P,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge COPR,15-Aug-22,KAM50OM8,KAM50OM8,TidewaterGoby01,0,0,0,0,0,0,0,0,50,11:00,"34 25' 3""","119 52' 27""",MS,,,0.3,26.6,158,90,0,0,0,P,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux-Venoco Bridge COPR,15-Aug-22,YWESPUWW,YWESPUWW,TidewaterGoby01,0,0,0,0,0,0,0,0,50,11:00,"34 25' 3""","119 52' 27""",MS,,,0.3,26.6,158,90,0,0,0,P,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux Slough Mouth,15-Aug-22,HX9SCNUT,HX9SCNUT,TidewaterGoby01,0,0,0,0,0,0,0,0,50,14:00,"34 24' 35""","119 52' 48""",MS,,,0.3,30,108,170,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux Slough Mouth,15-Aug-22,LVO3QRLX,LVO3QRLX,TidewaterGoby01,0,0,0,0,0,0,0,0,50,14:00,"34 24' 35""","119 52' 48""",MS,,,0.3,30,108,170,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux Slough Mouth,15-Aug-22,PKPYEKF3,PKPYEKF3,TidewaterGoby01,0,0,0,0,0,0,0,0,50,14:00,"34 24' 35""","119 52' 48""",MS,,,0.3,30,108,170,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux Slough Mouth,15-Aug-22,QF6Y61R2,QF6Y61R2,TidewaterGoby01,0,0,0,0,0,0,0,0,60,14:00,"34 24' 35""","119 52' 48""",MS,,,0.3,30,108,170,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux Slough Mouth,15-Aug-22,RJC5NWS7,RJC5NWS7,TidewaterGoby01,0,0,0,0,0,0,0,0,50,14:00,"34 24' 35""","119 52' 48""",MS,,,0.3,30,108,170,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux COPR Bridge,15-Aug-22,IF7K5NQF,IF7K5NQF,TidewaterGoby01,0,0,0,0,0,0,0,0,50,13:30:00 AM,"34 24' 43""","119 52' 38""",MS,,,0.3,27.2,109,99,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux COPR Bridge,15-Aug-22,IUL4EQNP,IUL4EQNP,TidewaterGoby01,0,0,0,0,0,0,0,0,55,13:30:00 AM,"34 24' 43""","119 52' 38""",MS,,,0.3,27.2,109,99,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux COPR Bridge,15-Aug-22,5NXLYMB4,5NXLYMB4,TidewaterGoby01,0,0,0,0,0,0,0,0,50,13:30:00 AM,"34 24' 43""","119 52' 38""",MS,,,0.3,27.2,109,99,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux COPR Bridge,15-Aug-22,EEYYMPOX,EEYYMPOX,TidewaterGoby01,0,0,0,0,0,0,0,0,50,13:30:00 AM,"34 24' 43""","119 52' 38""",MS,,,0.3,27.2,109,99,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devereux Slough,Devereux COPR Bridge,15-Aug-22,QAYFMDLF,QAYFMDLF,TidewaterGoby01,0,0,0,0,0,0,0,0,55,13:30:00 AM,"34 24' 43""","119 52' 38""",MS,,,0.3,27.2,109,99,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calleguas Creek,Calleagus Creek Bridge - up 3,16-Aug-22,AV1G647K,AV1G647K,TidewaterGoby01,0,0,0,0,0,0,0,0,120,11:08,34.11575,-119.08014,DD,2,4,0.5,22.1,32.7,8.3,P,0,0,0,0,1,0,0,0,0,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - up 3,16-Aug-22,N6M3N6LT,N6M3N6LT,TidewaterGoby01,0,0,0,0,0,0,0,0,110,11:08,34.11575,-119.08014,DD,2,4,0.5,22.1,32.7,8.3,P,0,0,0,0,1,0,0,0,0,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - up 2,16-Aug-22,9H0R367Q,9H0R367Q,TidewaterGoby01,0,0,0,0,0,0,0,0,100,10:40,34.11322,-119.08083,DD,2,14,0.4,21.5,34.7,6.9,P,0,22,230,12,0,0,0,0,0,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - up 2,16-Aug-22,BWKIVG5R,BWKIVG5R,TidewaterGoby01,0,0,0,0,0,0,0,0,75,10:40,34.11322,-119.08083,DD,2,14,0.4,21.5,34.7,6.9,P,0,22,230,12,0,0,0,0,0,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - up 1,16-Aug-22,I3ZGR5GC,I3ZGR5GC,TidewaterGoby01,0,0,0,0,0,0,0,0,200,8:49,34.128,-119.0184,DD,3,5,0.5,21.2,16,10.4,P,0,15,140,46,0,0,0,0,0,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - up 1,16-Aug-22,NJCNWIUD,NJCNWIUD,TidewaterGoby01,0,0,0,0,0,0,0,0,60,8:49,34.128,-119.0184,DD,3,5,0.5,21.2,16,10.4,P,0,15,140,46,0,0,0,0,0,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - down 2,16-Aug-22,4LR1IE16,4LR1IE16,TidewaterGoby01,0,0,0,0,0,0,0,0,70,9:38,34.11255,-119.08358,DD,2,6,0.6,21.4,30.4,6.7,P,0,0,77,52,1,0,0,0,1,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - down 2,16-Aug-22,CXM7RKC1,CXM7RKC1,TidewaterGoby01,0,0,0,0,0,0,0,0,70,9:38,34.11255,-119.08358,DD,2,6,0.6,21.4,30.4,6.7,P,0,0,77,52,1,0,0,0,1,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - down 1,16-Aug-22,BDLUWJ2A,BDLUWJ2A,TidewaterGoby01,0,0,0,0,0,0,0,0,70,9:17,34.11256,-119.0267,DD,2.5,6,0.75,22.8,28.7,13.5,P,0,4,5,4,2,1,1,1,0,P,0,0
+Calleguas Creek,Calleagus Creek Bridge - down 1,16-Aug-22,UQDK4PXP,UQDK4PXP,TidewaterGoby01,0,0,0,0,0,0,0,0,80,9:17,34.11256,-119.0267,DD,2.5,6,0.75,22.8,28.7,13.5,P,0,4,5,4,2,1,1,1,0,P,0,0

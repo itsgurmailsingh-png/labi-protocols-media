@@ -1,0 +1,28 @@
+Field,Entries
+Title,SchmelzleandsKinziger_occupancy
+Dataset_Author,"Schmelzle, Molly C., Kinziger, Andrew P"
+Dataset_Format,spreadsheet
+Date,20150101
+Link,Dryad. 6rs23
+Abstract,This file is derived from previously published data compared seine detections of tidewater gobies with qPCR detections.  These data should be cite as Schmelzle et al. 2015Dryad. 6rs23. 
+Purpose,These data were used to compare qPCR with seining for detecting tidewater gobies.
+Contact_Person,Kevin D. Lafferty
+Address 1(Number of Street),"US Geological Survey, Western Ecological Research Center, c/o Marine Science Institute, University of California"
+Telephone,805 968 4226
+City_State,"Santa Barbara, CA"
+Zipcode,93106
+Thesaurus,Thesaurus:None
+Keyword,"Fishes, eDNA, Consensus taxonomy"
+Taxonomy,Yes
+Status,In work
+Update_Plans,As Needed
+Time_Period_Start,Time Period_Start:20220801
+Time_Period_End,Time Period_End:20230801
+Currentness_Reference,date pending
+Native_Data_Set_Environment,CSV
+Supplemental_Information,Supplemental Online Tables and Code
+Spatial_Description,northern California's and southern Oregon's coastline
+West,-125
+East,-123
+North,43
+South,40

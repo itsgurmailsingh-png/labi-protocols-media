@@ -1,0 +1,27 @@
+cross,cross_abtr,comb_type,trial_type,Y
+1SC x 1CC,salt x corn,same,between,-0.058932061
+1SC x 1CC,salt x corn,diff,between,0.182045148
+2SC x 2CC,salt x corn,same,between,-0.020008006
+2SC x 2CC,salt x corn,diff,between,0.138251841
+3SC x 3CC,salt x corn,same,between,0.099094458
+3SC x 3CC,salt x corn,diff,between,0.12047703
+4SC x 4CC,salt x corn,same,between,-0.056418887
+4SC x 4CC,salt x corn,diff,between,0.114380323
+5SC x 5CC,salt x corn,same,between,0.117913225
+5SC x 5CC,salt x corn,diff,between,0.209979307
+6SC x 6CC,salt x corn,same,between,-0.047065352
+6SC x 6CC,salt x corn,diff,between,0.105095473
+7SC x 7CC,salt x corn,same,between,-0.146087408
+7SC x 7CC,salt x corn,diff,between,0.226539718
+1SC x 2SC,salt x salt,same,within,-0.061455723
+1SC x 2SC,salt x salt,diff,within,-0.046257581
+3SC x 4SC,salt x salt,same,within,0.062729567
+3SC x 4SC,salt x salt,diff,within,-0.01602435
+5SC x 6SC,salt x salt,same,within,-0.025186477
+5SC x 6SC,salt x salt,diff,within,0.035636626
+1CC x 2CC,corn x corn,same,within,0.009804864
+1CC x 2CC,corn x corn,diff,within,0.038823211
+3CC x 4CC,corn x corn,same,within,-0.029437252
+3CC x 4CC,corn x corn,diff,within,-0.053077645
+5CC x 6CC,corn x corn,same,within,-0.088837153
+5CC x 6CC,corn x corn,diff,within,0.162040604

@@ -1,0 +1,7 @@
+ids,genotype,rep,sample,treatment,exp
+WT1,WT,1,fruit_peel,normal,1
+WT2,WT,2,fruit_peel,normal,1
+WT3,WT,3,fruit_peel,normal,1
+MT1,ygp,1,fruit_peel,normal,1
+MT2,ygp,2,fruit_peel,normal,1
+MT3,ygp,3,fruit_peel,normal,1

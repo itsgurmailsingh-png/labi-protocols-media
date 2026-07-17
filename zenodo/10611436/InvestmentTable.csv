@@ -1,0 +1,16 @@
+﻿Investment,Variable,qPCR full-development,qPCR published,qPCR in house,goby metabarcode,fish metabarcode,goby seine,fish seine
+Permit management,P,0,0,0,0,0,15,15
+Background knowledge,B,0,0,0,0,6,0,3
+Gear,G,0.5,0.5,0.5,0.5,0.5,3,3
+Locations,L,1,1,1,1,1,1,1
+Workers,W,1,1,1,1,1,4,4
+Visit to location,V,4,4,4,4,4,4,4
+k sites,k,1:25,1:25,1:25,1:25,1:25,1:25,1:25
+visit to site,v,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Samples per site,n,1,1,1,"1,2","1,2",1,1
+Time per n,t,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+External per n,E,0,0,0,0,0,3,3
+Marker development,A,85,8,0,0,0,0,0
+Sequencing per n,q,1.8,1.8,1.8,3.5,3.5,0,0
+Data entry per n,D,0.2,0.2,0.2,0.2,0.2,0.2,0.4
+Reporting per L,R,3,3,3,3,8,3,6

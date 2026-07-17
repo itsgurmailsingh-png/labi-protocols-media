@@ -1,0 +1,9 @@
+DataSet,Col_Lable,Col_Definition,Col_Type,Values,Value_Definition,NA_code,NA_definition,Min,Max,Units,Resolution
+JVB1846_qpcr_tabulated_data,BatchId,Jonah Venture code for the run of samples,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+JVB1846_qpcr_tabulated_data,SampleId,Jonah Ventures label for a filter,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+JVB1846_qpcr_tabulated_data,Assay,type of organism the primer matches,text,NA,NA,,missing or uncalculated,NA,NA,NA,NA
+JVB1846_qpcr_tabulated_data,Rep1,first qPCR replicate,numeric,NA,NA,,missing or uncalculated,0,1374,squence copies,1
+JVB1846_qpcr_tabulated_data,Rep2,second qPCR replicate,numeric,NA,NA,,missing or uncalculated,0,1557,squence copies,1
+JVB1846_qpcr_tabulated_data,Rep3,third qPCR replicate,numeric,NA,NA,,missing or uncalculated,0,1490,squence copies,1
+JVB1846_qpcr_tabulated_data,AvgCopyNum,AvgCopyNum,numeric,NA,NA,,missing or uncalculated,0,1418,squence copies,1
+JVB1846_qpcr_tabulated_data,PctDetection,proportion of qPCR replicates with reads >0,numeric,NA,NA,,missing or uncalculated,0,100,percentage,1

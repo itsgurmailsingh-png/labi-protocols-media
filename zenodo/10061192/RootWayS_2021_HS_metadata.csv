@@ -1,0 +1,251 @@
+﻿sample-id,Identity,Variation,Variation No.,Source,Depth,Timepoint,Plot,Cover-crop-category,Site,Year,Root-extent,Subproject,Project
+#q2:types,categorical,categorical,categorical,categorical,categorical,categorical,categorical,categorical,categorical,categorical,categorical,categorical,categorical
+T2_BS-30_26,Control_BS,Control,1,BS,30,T2,26,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T2_MBS-30_26,Control_MBS,Control,1,MBS,30,T2,26,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T2_BS-30_33,Control_BS,Control,1,BS,30,T2,33,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T2_MBS-30_33,Control_MBS,Control,1,MBS,30,T2,33,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T2_BS-30_2,Control_BS,Control,1,BS,30,T2,2,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T2_MBS-30_2,Control_MBS,Control,1,MBS,30,T2,2,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T2_BS-30_18,Control_BS,Control,1,BS,30,T2,18,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T2_MBS-30_18,Control_MBS,Control,1,MBS,30,T2,18,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T3_BS-30_2,Control_BS,Control,1,BS,30,T3,2,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T3_BS-60_2,Control_BS,Control,1,BS,60,T3,2,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T3_BS-30_18,Control_BS,Control,1,BS,30,T3,18,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T3_BS-60_18,Control_BS,Control,1,BS,60,T3,18,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T3_BS-30_26,Control_BS,Control,1,BS,30,T3,26,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T3_BS-60_26,Control_BS,Control,1,BS,60,T3,26,No cover crop,HS,2021,No cover crop roots,SP2,RWS1
+T1_BS-30_35,Red Clover_BS,Red Clover,2,BS,30,T1,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-60_35,Red Clover_BS,Red Clover,2,BS,60,T1,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-90_35,Red Clover_BS,Red Clover,2,BS,120,T1,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-120_35,Red Clover_BS,Red Clover,2,BS,120,T1,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-30_35,Red Clover_RC,Red Clover,2,CR,30,T1,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-60_35,Red Clover_RC,Red Clover,2,CR,60,T1,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-90_35,Red Clover_RC,Red Clover,2,CR,120,T1,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-30_28,Red Clover_BS,Red Clover,2,BS,30,T1,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-60_28,Red Clover_BS,Red Clover,2,BS,60,T1,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-90_28,Red Clover_BS,Red Clover,2,BS,120,T1,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-120_28,Red Clover_BS,Red Clover,2,BS,120,T1,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-30_28,Red Clover_RC,Red Clover,2,CR,30,T1,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-60_28,Red Clover_RC,Red Clover,2,CR,60,T1,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-90_28,Red Clover_RC,Red Clover,2,CR,120,T1,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_35,Red Clover_BS,Red Clover,2,BS,30,T2,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_35,Red Clover_RC,Red Clover,2,CR,30,T2,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_35,Red Clover_MBS,Red Clover,2,MBS,30,T2,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_35,Red Clover_MRC,Red Clover,2,MCR,30,T2,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_28,Red Clover_BS,Red Clover,2,BS,30,T2,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_28,Red Clover_RC,Red Clover,2,CR,30,T2,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_28,Red Clover_MBS,Red Clover,2,MBS,30,T2,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_28,Red Clover_MRC,Red Clover,2,MCR,30,T2,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_10,Red Clover_BS,Red Clover,2,BS,30,T2,10,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_10,Red Clover_RC,Red Clover,2,CR,30,T2,10,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_10,Red Clover_MBS,Red Clover,2,MBS,30,T2,10,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_10,Red Clover_MRC,Red Clover,2,MCR,30,T2,10,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_11,Red Clover_MBS,Red Clover,2,MBS,30,T3,11,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_11,Red Clover_MBS,Red Clover,2,MBS,60,T3,11,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_11,Red Clover_MRC,Red Clover,2,MCR,30,T3,11,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_11,Red Clover_RC,Red Clover,2,CR,30,T3,11,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-60_11,Red Clover_RC,Red Clover,2,CR,60,T3,11,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_28,Red Clover_MBS,Red Clover,2,MBS,30,T3,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_28,Red Clover_MBS,Red Clover,2,MBS,60,T3,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_28,Red Clover_MRC,Red Clover,2,MCR,30,T3,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-60_28,Red Clover_MRC,Red Clover,2,MCR,60,T3,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_28,Red Clover_RC,Red Clover,2,CR,30,T3,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-60_28,Red Clover_RC,Red Clover,2,CR,60,T3,28,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_35,Red Clover_MBS,Red Clover,2,MBS,30,T3,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_35,Red Clover_MBS,Red Clover,2,MBS,60,T3,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_35,Red Clover_MRC,Red Clover,2,MCR,30,T3,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_35,Red Clover_RC,Red Clover,2,CR,30,T3,35,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-30_21,Oil Radish_BS,Oil Radish,4,BS,30,T1,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-60_21,Oil Radish_BS,Oil Radish,4,BS,60,T1,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-90_21,Oil Radish_BS,Oil Radish,4,BS,120,T1,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-120_21,Oil Radish_BS,Oil Radish,4,BS,120,T1,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-30_21,Oil Radish_RC,Oil Radish,4,CR,30,T1,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-60_21,Oil Radish_RC,Oil Radish,4,CR,60,T1,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-90_21,Oil Radish_RC,Oil Radish,4,CR,120,T1,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-30_16,Oil Radish_BS,Oil Radish,4,BS,30,T1,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-60_16,Oil Radish_BS,Oil Radish,4,BS,60,T1,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-90_16,Oil Radish_BS,Oil Radish,4,BS,120,T1,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-120_16,Oil Radish_BS,Oil Radish,4,BS,120,T1,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-30_16,Oil Radish_RC,Oil Radish,4,CR,30,T1,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-60_16,Oil Radish_RC,Oil Radish,4,CR,60,T1,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-90_16,Oil Radish_RC,Oil Radish,4,CR,120,T1,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_16,Oil Radish_BS,Oil Radish,4,BS,30,T2,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_16,Oil Radish_RC,Oil Radish,4,CR,30,T2,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_16,Oil Radish_MBS,Oil Radish,4,MBS,30,T2,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_16,Oil Radish_MRC,Oil Radish,4,MCR,30,T2,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_21,Oil Radish_BS,Oil Radish,4,BS,30,T2,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_21,Oil Radish_RC,Oil Radish,4,CR,30,T2,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_21,Oil Radish_MBS,Oil Radish,4,MBS,30,T2,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_21,Oil Radish_MRC,Oil Radish,4,MCR,30,T2,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_3,Oil Radish_BS,Oil Radish,4,BS,30,T2,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_3,Oil Radish_RC,Oil Radish,4,CR,30,T2,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_3,Oil Radish_MRC,Oil Radish,4,MCR,30,T2,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_3,Oil Radish_MBS,Oil Radish,4,MBS,30,T2,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_3,Oil Radish_MBS,Oil Radish,4,MBS,30,T3,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_3,Oil Radish_MBS,Oil Radish,4,MBS,60,T3,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_3,Oil Radish_MRC,Oil Radish,4,MCR,30,T3,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_3,Oil Radish_RC,Oil Radish,4,CR,30,T3,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-60_3,Oil Radish_RC,Oil Radish,4,CR,60,T3,3,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_16,Oil Radish_MBS,Oil Radish,4,MBS,30,T3,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_16,Oil Radish_MBS,Oil Radish,4,MBS,60,T3,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_16,Oil Radish_MRC,Oil Radish,4,MCR,30,T3,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-60_16,Oil Radish_MRC,Oil Radish,4,MCR,60,T3,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_16,Oil Radish_RC,Oil Radish,4,CR,30,T3,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-60_16,Oil Radish_RC,Oil Radish,4,CR,60,T3,16,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_21,Oil Radish_MBS,Oil Radish,4,MBS,30,T3,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_21,Oil Radish_MBS,Oil Radish,4,MBS,60,T3,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_21,Oil Radish_MRC,Oil Radish,4,MCR,30,T3,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_21,Oil Radish_RC,Oil Radish,4,CR,30,T3,21,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-30_32,Fescue_BS,Fescue,6,BS,30,T1,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-60_32,Fescue_BS,Fescue,6,BS,60,T1,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-120_32,Fescue_BS,Fescue,6,BS,120,T1,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-30_32,Fescue_RC,Fescue,6,CR,30,T1,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-60_32,Fescue_RC,Fescue,6,CR,60,T1,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-90_32,Fescue_RC,Fescue,6,CR,120,T1,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-30_14,Fescue_BS,Fescue,6,BS,30,T1,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-60_14,Fescue_BS,Fescue,6,BS,60,T1,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-90_14,Fescue_BS,Fescue,6,BS,120,T1,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-120_14,Fescue_BS,Fescue,6,BS,120,T1,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-30_14,Fescue_RC,Fescue,6,CR,30,T1,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-60_14,Fescue_RC,Fescue,6,CR,60,T1,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_RC-90_14,Fescue_RC,Fescue,6,CR,120,T1,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_14,Fescue_BS,Fescue,6,BS,30,T2,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_14,Fescue_RC,Fescue,6,CR,30,T2,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_14,Fescue_MBS,Fescue,6,MBS,30,T2,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_14,Fescue_MRC,Fescue,6,MCR,30,T2,14,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_32,Fescue_BS,Fescue,6,BS,30,T2,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_32,Fescue_RC,Fescue,6,CR,30,T2,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_32,Fescue_MBS,Fescue,6,MBS,30,T2,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_32,Fescue_MRC,Fescue,6,MCR,30,T2,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_BS-30_8,Fescue_BS,Fescue,6,BS,30,T2,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_RC-30_8,Fescue_RC,Fescue,6,CR,30,T2,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MRC-30_8,Fescue_MRC,Fescue,6,MCR,30,T2,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T2_MBS-30_8,Fescue_MBS,Fescue,6,MBS,30,T2,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_8,Fescue_MBS,Fescue,6,MBS,30,T3,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_8,Fescue_MBS,Fescue,6,MBS,60,T3,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_8,Fescue_MRC,Fescue,6,MCR,30,T3,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-60_8,Fescue_MRC,Fescue,6,MCR,60,T3,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_8,Fescue_RC,Fescue,6,CR,30,T3,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-60_8,Fescue_RC,Fescue,6,CR,60,T3,8,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_30,Fescue_MBS,Fescue,6,MBS,30,T3,30,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_30,Fescue_MBS,Fescue,6,MBS,60,T3,30,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_30,Fescue_MRC,Fescue,6,MCR,30,T3,30,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-60_30,Fescue_MRC,Fescue,6,MCR,60,T3,30,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_30,Fescue_RC,Fescue,6,CR,30,T3,30,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-60_30,Fescue_RC,Fescue,6,CR,60,T3,30,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-30_32,Fescue_MBS,Fescue,6,MBS,30,T3,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MBS-60_32,Fescue_MBS,Fescue,6,MBS,60,T3,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-30_32,Fescue_MRC,Fescue,6,MCR,30,T3,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_MRC-60_32,Fescue_MRC,Fescue,6,MCR,60,T3,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-30_32,Fescue_RC,Fescue,6,CR,30,T3,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T3_RC-60_32,Fescue_RC,Fescue,6,CR,60,T3,32,Monoculture,HS,2021,Deep-rooting,SP2,RWS1
+T1_BS-30_19,Legume/Grass_BS,Legume/Grass,8,BS,30,T1,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-60_19,Legume/Grass_BS,Legume/Grass,8,BS,60,T1,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-90_19,Legume/Grass_BS,Legume/Grass,8,BS,120,T1,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-120_19,Legume/Grass_BS,Legume/Grass,8,BS,120,T1,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-30_19,Legume/Grass_RC,Legume/Grass,8,CR,30,T1,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-60_19,Legume/Grass_RC,Legume/Grass,8,CR,60,T1,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-90_19,Legume/Grass_RC,Legume/Grass,8,CR,120,T1,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_4,Legume/Grass_BS,Legume/Grass,8,BS,30,T2,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_4,Legume/Grass_RC,Legume/Grass,8,CR,30,T2,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_4,Legume/Grass_MBS,Legume/Grass,8,MBS,30,T2,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MRC-30_4,Legume/Grass_MRC,Legume/Grass,8,MCR,30,T2,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_19,Legume/Grass_BS,Legume/Grass,8,BS,30,T2,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_19,Legume/Grass_RC,Legume/Grass,8,CR,30,T2,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_19,Legume/Grass_MBS,Legume/Grass,8,MBS,30,T2,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MRC-30_19,Legume/Grass_MRC,Legume/Grass,8,MCR,30,T2,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_40,Legume/Grass_BS,Legume/Grass,8,BS,30,T2,40,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_40,Legume/Grass_RC,Legume/Grass,8,CR,30,T2,40,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_40,Legume/Grass_MBS,Legume/Grass,8,MBS,30,T2,40,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MRC-30_40,Legume/Grass_MRC,Legume/Grass,8,MCR,30,T2,40,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_4,Legume/Grass_MBS,Legume/Grass,8,MBS,30,T3,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_4,Legume/Grass_MBS,Legume/Grass,8,MBS,60,T3,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_4,Legume/Grass_MRC,Legume/Grass,8,MCR,30,T3,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_4,Legume/Grass_MRC,Legume/Grass,8,MCR,60,T3,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_4,Legume/Grass_RC,Legume/Grass,8,CR,30,T3,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_4,Legume/Grass_RC,Legume/Grass,8,CR,60,T3,4,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_19,Legume/Grass_MBS,Legume/Grass,8,MBS,30,T3,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_19,Legume/Grass_MBS,Legume/Grass,8,MBS,60,T3,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_19,Legume/Grass_MRC,Legume/Grass,8,MCR,30,T3,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_19,Legume/Grass_MRC,Legume/Grass,8,MCR,60,T3,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_19,Legume/Grass_RC,Legume/Grass,8,CR,30,T3,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_19,Legume/Grass_RC,Legume/Grass,8,CR,60,T3,19,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_23,Legume/Grass_MBS,Legume/Grass,8,MBS,30,T3,23,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_23,Legume/Grass_MBS,Legume/Grass,8,MBS,60,T3,23,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_23,Legume/Grass_MRC,Legume/Grass,8,MCR,30,T3,23,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_23,Legume/Grass_MRC,Legume/Grass,8,MCR,60,T3,23,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_23,Legume/Grass_RC,Legume/Grass,8,CR,30,T3,23,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_23,Legume/Grass_RC,Legume/Grass,8,CR,60,T3,23,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-30_25,Legume/Brassica_BS,Legume/Brassica,9,BS,30,T1,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-60_25,Legume/Brassica_BS,Legume/Brassica,9,BS,60,T1,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-90_25,Legume/Brassica_BS,Legume/Brassica,9,BS,120,T1,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-120_25,Legume/Brassica_BS,Legume/Brassica,9,BS,120,T1,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-30_25,Legume/Brassica_RC,Legume/Brassica,9,CR,30,T1,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-60_25,Legume/Brassica_RC,Legume/Brassica,9,CR,60,T1,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-90_25,Legume/Brassica_RC,Legume/Brassica,9,CR,120,T1,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_25,Legume/Brassica_BS,Legume/Brassica,9,BS,30,T2,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_25,Legume/Brassica_RC,Legume/Brassica,9,CR,30,T2,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_25,Legume/Brassica_MBS,Legume/Brassica,9,MBS,30,T2,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MRC-30_25,Legume/Brassica_MRC,Legume/Brassica,9,MCR,30,T2,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_37,Legume/Brassica_BS,Legume/Brassica,9,BS,30,T2,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_37,Legume/Brassica_RC,Legume/Brassica,9,CR,30,T2,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_37,Legume/Brassica_MBS,Legume/Brassica,9,MBS,30,T2,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_13,Legume/Brassica_BS,Legume/Brassica,9,BS,30,T2,13,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_13,Legume/Brassica_RC,Legume/Brassica,9,CR,30,T2,13,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_13,Legume/Brassica_MRC,Legume/Brassica,9,MBS,30,T2,13,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MRC-30_13,Legume/Brassica_MRC,Legume/Brassica,9,MCR,30,T2,13,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_37,Legume/Brassica_MBS,Legume/Brassica,9,MBS,30,T3,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_37,Legume/Brassica_MBS,Legume/Brassica,9,MBS,60,T3,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_37,Legume/Brassica_MRC,Legume/Brassica,9,MCR,30,T3,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_37,Legume/Brassica_MRC,Legume/Brassica,9,MCR,60,T3,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_37,Legume/Brassica_RC,Legume/Brassica,9,CR,30,T3,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_37,Legume/Brassica_RC,Legume/Brassica,9,CR,60,T3,37,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_9,Legume/Brassica_MBS,Legume/Brassica,9,MBS,30,T3,9,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_9,Legume/Brassica_MBS,Legume/Brassica,9,MBS,60,T3,9,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_9,Legume/Brassica_MRC,Legume/Brassica,9,MCR,30,T3,9,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_9,Legume/Brassica_MRC,Legume/Brassica,9,MCR,60,T3,9,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_9,Legume/Brassica_RC,Legume/Brassica,9,CR,30,T3,9,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_9,Legume/Brassica_RC,Legume/Brassica,9,CR,60,T3,9,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_25,Legume/Brassica_MBS,Legume/Brassica,9,MBS,30,T3,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_25,Legume/Brassica_MBS,Legume/Brassica,9,MBS,60,T3,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_25,Legume/Brassica_MRC,Legume/Brassica,9,MCR,30,T3,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_25,Legume/Brassica_MRC,Legume/Brassica,9,MCR,60,T3,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_25,Legume/Brassica_RC,Legume/Brassica,9,CR,30,T3,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_25,Legume/Brassica_RC,Legume/Brassica,9,CR,60,T3,25,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-30_29,Brassica/Grass_BS,Brassica/Grass,10,BS,30,T1,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-60_29,Brassica/Grass_BS,Brassica/Grass,10,BS,60,T1,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-90_29,Brassica/Grass_BS,Brassica/Grass,10,BS,120,T1,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_BS-120_29,Brassica/Grass_BS,Brassica/Grass,10,BS,120,T1,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-30_29,Brassica/Grass_RC,Brassica/Grass,10,CR,30,T1,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-60_29,Brassica/Grass_RC,Brassica/Grass,10,CR,60,T1,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T1_RC-90_29,Brassica/Grass_RC,Brassica/Grass,10,CR,120,T1,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_29,Brassica/Grass_BS,Brassica/Grass,10,BS,30,T2,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_29,Brassica/Grass_RC,Brassica/Grass,10,CR,30,T2,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_29,Brassica/Grass_MBS,Brassica/Grass,10,MBS,30,T2,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MRC-30_29,Brassica/Grass_MRC,Brassica/Grass,10,MCR,30,T2,29,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_17,Brassica/Grass_BS,Brassica/Grass,10,BS,30,T2,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_17,Brassica/Grass_RC,Brassica/Grass,10,CR,30,T2,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_17,Brassica/Grass_MBS,Brassica/Grass,10,MBS,30,T2,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MRC-30_17,Brassica/Grass_MRC,Brassica/Grass,10,MCR,30,T2,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_BS-30_31,Brassica/Grass_BS,Brassica/Grass,10,BS,30,T2,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_RC-30_31,Brassica/Grass_RC,Brassica/Grass,10,CR,30,T2,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MBS-30_31,Brassica/Grass_MBS,Brassica/Grass,10,MBS,30,T2,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T2_MRC-30_31,Brassica/Grass_MRC,Brassica/Grass,10,MCR,30,T2,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_31,Brassica/Grass_MBS,Brassica/Grass,10,MBS,30,T3,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_31,Brassica/Grass_MBS,Brassica/Grass,10,MBS,60,T3,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_31,Brassica/Grass_MRC,Brassica/Grass,10,MCR,30,T3,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_31,Brassica/Grass_MRC,Brassica/Grass,10,MCR,60,T3,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_31,Brassica/Grass_RC,Brassica/Grass,10,CR,30,T3,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_31,Brassica/Grass_RC,Brassica/Grass,10,CR,60,T3,31,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_5,Brassica/Grass_MBS,Brassica/Grass,10,MBS,30,T3,5,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_5,Brassica/Grass_MBS,Brassica/Grass,10,MBS,60,T3,5,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_5,Brassica/Grass_MRC,Brassica/Grass,10,MCR,30,T3,5,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_5,Brassica/Grass_MRC,Brassica/Grass,10,MCR,60,T3,5,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_5,Brassica/Grass_RC,Brassica/Grass,10,CR,30,T3,5,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_5,Brassica/Grass_RC,Brassica/Grass,10,CR,60,T3,5,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-30_17,Brassica/Grass_MBS,Brassica/Grass,10,MBS,30,T3,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MBS-60_17,Brassica/Grass_MBS,Brassica/Grass,10,MBS,60,T3,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-30_17,Brassica/Grass_MRC,Brassica/Grass,10,MCR,30,T3,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_MRC-60_17,Brassica/Grass_MRC,Brassica/Grass,10,MCR,60,T3,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-30_17,Brassica/Grass_RC,Brassica/Grass,10,CR,30,T3,17,Mixture,HS,2021,Mixture,SP2,RWS1
+T3_RC-60_17,Brassica/Grass_RC,Brassica/Grass,10,CR,60,T3,17,Mixture,HS,2021,Mixture,SP2,RWS1

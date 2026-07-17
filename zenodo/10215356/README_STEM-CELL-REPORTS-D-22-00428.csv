@@ -1,0 +1,131 @@
+﻿Wang et al.,Stem Cell Reports, Manuscript# STEM-CELL-REPORTS-D-22-00428
+GENERAL INFORMATION ,,
+Tittle of the dataset: Interspecies chimerism with human embryonic stems cells generates functional human dopamine neurons at low efficiency,,
+Author Information:,,
+,Corresponding Investigator:,
+,,Dr. Ted M Dawson
+,,"Institution: Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+,,Email: tdawson@jhmi.edu
+,Co-Investigator 1:,
+,,Dr. Hu Wang
+,,"Institution: Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+,Co-Investigator 2:,
+,,Dr. Xiling Yin
+,,"Institution: Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+,Co-Investigator 3:,
+,,Dr. Jinchong Xu
+,,"Institution: Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+,Co-Investigator 4:,
+,,Ms. Li Chen
+,,"Institution: Department of Biophysics and Biophysical Chemistry,Johns Hopkins University, Baltimore,MD 21205,USA"
+,Co-Incestigator 5:,
+,,Dr. Senthilkumar S. Karuppagounder
+,,"Institution: Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+,Co-Investigator 6:,
+,,Dr. Enquan Xu
+,,"Institution: Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+,Co-Investigator 7:,
+,,Dr. Xiaobo Mao 
+,,"Institution: Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+,Co-Investigator 8:,
+,,Dr. Valina L. Dawson
+,,"Institution: Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+"Geographic location of data collection: Baltimore, Maryland , USA",,
+Funding information: Grants from the Maryland Stem Cell Research Foundation; 2015-MSCRFE-1782 to T.M.D.  Adrienne Helis Malvin Medical Research Foundation through its direct engagement in the continuous active conduct of medical research in conjunction with The Johns Hopkins Hospital and the Johns Hopkins University School of Medicine and the Foundation’s Parkinson’s Disease Programs M-2016. T.M.D. is the Leonard and Madlyn Abramson Professor in Neurodegenerative Diseases. ,,
+"Recommended citation of the dataset: Want H, Yin XL, Xu JC, et al.  Interspecies chimerism with human embryonic stems cells generates functional human dopamine neurons at low efficiency. Stem Cell Reports",,
+README FILE OVERVIEW: ,,
+Description of dataset:,,
+"Data were collected to study Interspecies chimerism with human embryonic stems cells characterization, dopamine neuron electrophysiological function, and pre-formed fibril response to functional human dopamine neurons.       ",,
+List of Data Files:,,
+,Figure 1 ,
+,Description of Figure 1: Chimeric contribution of human ES RUES1-derived cells in En1 knockout mouse brain   ,
+,Figure 1a: Number of blastocyst injections ,
+,Figure 1b: Light images showed morphology of embryos injected with RUES1 cells,
+,Figure 1c: GFP staining showed integration of RUES1-derived cells in E10.5 embryonic midbrain (En1-/-) region,
+,Figure 1d: Validation by GFP and hNA double staining showed integration of RUES1-derived cells in E10.5 embryonic midbrain (En1-/-) region,
+,Figure 1e: Quantification of fluorescence intensity in figure 1d,"n=3 in En1+/+, n=3 in En1+/- and n=1 in En1-/- biological replicates"
+,Figure 1f: GFP staining showed integration of RUES1-derived cells in En1 knockout mouse forepaw,
+,Figure 1g: Flow cytometry analysis in primary cultured DA neurons from chimeric embryos showed RUES1-derived GFP positive neuron enrichment in En1 knockout group.,
+,Figure 1h: Validation of RUES1-derived GFP positive neurons by fluorescence microscopy assay in primary cultured DA neurons dissociated from chimeric embryos.,
+,Figure 2 ,
+,Description of Figure 2: Chimeric contribution of human ES RUES1-derived cells in 23-day-old En1 knockout mouse brain,
+,Figure 2a: Images of entire chimeric mouse brain showed no differences with WT,
+,Figure 2b: Lightsheet microscope images showed RUES1-derived cells integration in 23-day-old mouse brain,
+,Figure 2c: RUES1-derived GFP positive neurons validated by co-staining with anti-human nuclei (hNA) antibody.,
+,Figure 3 ,
+,Description of Figure 3: Characterization of human ES RUES1-derived neurons in En1+/- mouse brain,
+,Figure 3a: The neuronal marker and GFP co-staining showed human ES RUES1-derived neurons in primary culture from embryonic En1+/- mouse brain,
+,Figure 3b: Quantification of fluorescence intensity of figure 3a, n=3 Biologically independent samples
+,Figure 3c: GFP staining showed RUES1-derived dopamine neurons integration in adult En1+/- mouse brain,
+,Figure 3d: Validation of GFP and TH colocalization by immunofluorescence staining  in chimeric mouse midbrain section,
+,Figure 3e: Quantification of cell numbers in figure 3d, n=3 Biologically independent samples
+,"	Figure 3f: Quantification of GFP and TH positive neurons in figure 3e", n=3 Biologically independent samples
+,Figure 4 ,
+,Description of Figure 4: Characterization of human ES RUES1-derived DA neurons in En1+/- mouse brain,
+,Figure 4a: Immunofluorescence images showed microdissected neurons for dopaminergic neuron marker characterization,
+,Figure 4b: Single cell gene expression showed dopaminergic specific neuron marker expression in RUES1-derived DA neurons,
+,Figure 4c: RUES1-derived GFP+/TH+ DA neurons showed DA specific marker DAT expression,
+,Figure 4d: Schematic experimental procedure of FFN102-based dopamine tracing,
+,Figure 4e: Dopamine uptake assay showed RUES1-derived dopaminergic neuron functional in dopamine analog uptake,
+,Figure 4f: Quantification of cell numbers in figure 4e, n=3 Biologically independent samples
+,Figure 5,
+,Description of Figure 5: Electrophysiological analysis of RUES1-derived neurons in neuronal culture and brain slice,
+,Figure 5a: Immunofluorescence images showed recorded neurons from neuronal culture,
+,"	Figure 5b: Electrophysiological assay showed human RUES1-derived neurons from neuronal culture are functional",
+,"	Figure 5c: Immunofluorescence images showed recorded neurons from adult midbrain slice",
+,"	Figure 5d: Electrophysiological assay showed human RUES1-derived neurons from adult midbrain slice are functional",
+,"	Figure 5d: Summary of electrophysiological data from neuronal cultures and brain slices",
+,Figure 6,
+,Description of Figure 6: RUES1-derived neurons can respond to α-syn PFFs,
+,Figure 6a: Schematic diagram of mPFF or hPFF injection in RUES1-GFP En1+/-  chimeric mice,
+,Figure 6b: Immunofluorescence images showed α-syn aggregation in RUES1-GFP En1+/-  chimeric mice treated with mouse and human α-syn PFFs,
+,Figure 6c: Immunofluorescence images showed α-syn pathology in RUES1-GFP En1+/-  chimeric mice treated with mouse and human α-syn PFFs,
+,Figure 6d: Quantification of fluorescence intensity and cell number from figure 6c,
+,"	Figure 6e: Validation of RUES1-derived GFP positive neuron pathology by co-staining with anti-ubiquitin antibody",
+List of Supplementary  Files:,,
+,S Figure 1,
+,Description of S Figure 1: Human ES cell naïve-like state conversion and characterization,
+,S Figure 1a: Fluorescent images showed human ES cell line RUES1 and RUES2 labelled successfully,
+,S Figure 1b: Microscope images showed human ES cell lines H1 and RUES1-GFP naïve-like conversion by RSeT much better than other conversion conditions ,
+,S Figure 1c: Quantification of colony thickness of S figure 1b, n=3 Biologically independent samples
+,S Figure 1d: Fluorescent images showed morphology changes of RUES1 and RUES2 clony before and after naïve-like conversion,
+,S Figure 1e: H&E staining images showed pluripotency of RUES1 and RUES2 by teratoma assay,
+,S Figure 2,
+,Description of S Figure 2: Chimeric contribution of RUES1-derived cells in chimeric mouse brain,
+,S Figure 2a: Table of En1 embryo and pup generation showed no knockout live pups ,
+,S Figure 2b: Immunofluorescence images showed clarity of 4% PFA fixed mouse embryo E12.5 before and after CUBIC clearing,
+,S Figure 2c: Immunofluorescence images showed neuronal integration by GFP and MAP2 staining in neuronal culture,
+,S Figure 2d: Immunofluorescence images showed RUES1-derived cells integration in E9.5 embryo (En1+/-). ,
+,S Figure 2e: Immunofluorescence images showed RUES1-derived cells integration into E11.5 embryos,
+,S Figure 2f: Immunofluorescence images showed GFP positive RUES1-derived cells integration into E15.5 embryo (En-1+/-) forepaw,
+,S Figure 2g: Quantification of chimerism of RUES1 contribution to the chimeric embryonic brain examined by qPCR, n=3 Biologically independent samples
+,S Figure 2h: Agarose gel electrophoresis images showed GFP integration and expression in En1+/-chimeric embryonic neuronal cultured samples ,
+,S Figure 2i: Confocal immunofluorescence images showed RUES1 and RUES2 derived TH neurons generation in E15.5 En1+/- human-mouse chimera,
+,S Figure 2j: Immunofluorescence images  showed specific neuronal marker genes expression in RUES1-derived neuron in the adult En1+/-  chimeric midbrain,
+,S Figure 2k: Immunofluorescence images showed RUES1-derived glial cell generation in the adult En1+/-  chimeric brain section,
+,S Figure 2l: Immunofluorescence images showed RUES1-derived cells integration in the cerebellum of adult En1+/-  chimeric brain section,
+,S Figure 2m: Immunofluorescence images showed RUES1-derived cells integration in the brain stem of adult En1+/-  chimeric brain section,
+,S Figure 2n: Immunofluorescence images showed RUES1-derived cells integration in the hippocampus region of adult En1+/-  chimeric brain section,
+,S Figure 3,
+,Description of S Figure 3: Characterization of neuronal cell types in chimeric brain,
+,S Figure 3a: Immunofluorescence images showed GFP positive RUES1-derived cells generation in the region of raphe nuclei and tectum,
+,"	S Figure 3b: Immunofluorescence images showed different neuronal marker expression in RUES1-derived cells ",
+,"	S Figure 3c: Immunofluorescence images showed dopaminergic neuron specific transcript factor expression in RUES1-derived cells ",
+,"	S Figure 3d: Immunofluorescence images showed no changes in En1 expression in En1+/- mice with or without injection",
+,"	S Figure 3e: Quantification of En1 expression by fluorescence intensity and positive number from S figure 3d",
+,S Figure 4,
+,Description of S Figure 4: Electrophysiological analysis in neuronal culture and brain slice,
+,S Figure 4a: Immunofluorescence images showed recorded neurons from primary cortex neuronal cultures,
+,"	S Figure 4b: Electrophysiological function showed in RUES1 derived cortical neurons from En1+/- human-mouse chimera",
+,"	S Figure 4c: Immunofluorescence images showed recorded hippocampal region",
+,"	S Figure 4d: Electrophysiological function of RUES1-derived neurons showed in hippocampal slice",
+,"	S Figure 4e: Electrophysiological parameters from RUES1-derived neurons and mouse neurons",
+,S Figure 5,
+,Description of S Figure 5: RUES1-derived neurons generate pathologic α-synuclein in response to administration of α-synuclein PFF,
+,"	S Figure 5a: Immunofluorescence images showed the bilateral injection in the striatum of 4-month-old En1+/- human-mouse chimeric mice",
+,"	S Figure 5b: Immunofluorescence images showed pathology in SNc region of the midbrain from En1+/- chimeric mice",
+,"	S Figure 5c: Pathology validation by anti-pSyn co-stained with different neuronal marker in the midbrain region",
+,S Figure 5d: Immunofluorescence images showed patholgoy in different inviduals with mPFF and hPFF injection,
+List of Supplementary Videos,,
+,"Supplementary Movie 1. Light sheet imaging of GFP staining (horizontal view) showed integration in E9.5 En1-/- chimeric brain, related to Fig 1C",
+,"Supplementary Movie 2. Light sheet imaging of GFP staining (sagittal view) showed integration in E9.5 En1-/- chimeric brain, related to Fig 1C",
